@@ -14,7 +14,7 @@ Windows ではメモ帳を使用する事が可能です。
 
 ### ライセンス
 
-この文章は CC BY で公開されている PDF 文章「BASICリファレンス」を元に
+この文章は CC BY で公開されている PDF 文章「BASICリファレンス」を元に<br />
 志賀 慶一 (ふうせん Fu-sen.) が独自調査で文章化しているものです。
 
 BASICリファレンス: CC BY by 福野泰介 / Taisuke Fukuno<br />
