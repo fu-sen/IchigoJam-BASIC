@@ -14,11 +14,15 @@ Windows ではメモ帳を使用する事が可能です。
 
 ### ライセンス
 
-この文章は CC BY で公開されている PDF 文章「BASICリファレンス」を元に<br />
-志賀 慶一 (ふうせん Fu-sen.) が独自調査で文章化しているものです。
+この文章は CC BY で公開されている PDF 文章「BASICリファレンス」や<br />
+Facebook グループ「IchigoJam-FAN」などの情報を元に<br />
+志賀 慶一 (ふうせん Fu-sen.) が独自に文章化しているものです。
 
 BASICリファレンス: CC BY by 福野泰介 / Taisuke Fukuno<br />
 http://ichigojam.net/IchigoJam-BASIC-reference.pdf
+
+Facebook グループ IchigoJam-FAN<br />
+https://www.facebook.com/groups/ichigojam/<br />
 
 Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015.
 
