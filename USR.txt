@@ -26,12 +26,17 @@ C でつくる場合は 第1パラメータ で取得し、return で返すようにできます。
 
     int16_t sample(int16_t val) {
 
+        /* メイン */
+
         return val;
-	}
+    }
 
 1.1 beta6 以降
 
     int16_t sample(int16_t val, char* mem) {
+
+        /* メイン */
+
         return val;
     }
 
