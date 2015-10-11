@@ -19,3 +19,6 @@ MEMORY MAP
 #800-#8FF VARS
 #900-#BFF VRAM
 #C00-#FFF PROGRAM
+
+1.1 beta6 では容量対策として一時的に削除されています。
+最悪 1.1 では廃止される可能性があります。
