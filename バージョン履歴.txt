@@ -1,5 +1,7 @@
 IchigoJam バージョン履歴
 
+2016/04/01 1.2 beta 17 (1.2 beta 13 より）
+・フォントを更新
 
 2016/04/01 1.2 beta 14 / 2th anniversary edition (2th2)
 ・起動ロゴを追加 (ファイル 0)
