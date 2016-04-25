@@ -1,7 +1,7 @@
 IchigoJam バージョン履歴
 
-2016/04/19 1.2 beta 23 (1.2 beta 19 より）
-・小型 LED 版（IchigoJam pocket）を同梱
+2016/04/19 1.2.0 (1.2 beta 19 より）
+・小型 LED 版（IchigoJam pocket）を同梱、モンゴル語版を外す
 ・フォントを更新
 ・小型 LED 版（IchigoJam pocket）で VIDEO 0 に対応
 ・挿入モードカーソル形状を変更
