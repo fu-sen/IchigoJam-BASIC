@@ -22,11 +22,19 @@ Facebook グループ IchigoJam-FAN 内で公開しています。<br />
 https://www.facebook.com/groups/ichigojam/626631837476573/
 
 
+### MixJuice 版
+
+MixJuice を接続した IchigoJam で直接参照できます。
+
+?"ML GET FU-SEN.GITHUB.IO/IJHELP/"
+
+
 ### バージョン表記の注意
 
 1.1 beta（1.1.0 beta1 を含む）は 1.0.2 beta11 までの追加機能を継承しています。<br />
 そのため、1.1.0 表記の一部コマンドは 1.0.2 beta11 までで動作するものがあります。<br />
 1.0.2 beta12 より 1.0.1 から継承しなおしているため、動作の違いにご注意下さい。
+
 
 ### ライセンス
 
@@ -40,7 +48,7 @@ http://ichigojam.net/IchigoJam-BASIC-reference.pdf
 Facebook グループ IchigoJam-FAN<br />
 https://www.facebook.com/groups/ichigojam/<br />
 
-Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015.
+Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2016.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
 
