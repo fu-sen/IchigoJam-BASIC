@@ -29,13 +29,13 @@ MixJuice を接続した IchigoJam で直接参照できます。
 この一覧を公開している ふうせん Fu-sen. による制作はこちら。
 
 https://github.com/fu-sen/IJHELP<br />
-?"ML GET fu-sen.github.io/IJHELP/"
+?"MJ GET fu-sen.github.io/IJHELP/"
 
 古籏 一浩さんがこの一覧から MixJuice 対応にしたバージョンもあります。
 
 https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
-?"ml get www.openspc2.org/data/m/(コマンド名大文字).txt"<br />
-例 ?"ml get www.openspc2.org/data/m/ABS.txt"
+?"mj get www.openspc2.org/data/m/(コマンド名大文字).txt"<br />
+例 ?"mj get www.openspc2.org/data/m/ABS.txt"
 
 ### バージョン表記の注意
 
