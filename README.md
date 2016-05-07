@@ -34,7 +34,7 @@ https://github.com/fu-sen/IJHELP<br />
 古籏 一浩さんがこの一覧から MixJuice 対応にしたバージョンもあります。
 
 https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
-?"ml get www.openspc2.org/data/m/(コマンド名大文字).txt"
+?"ml get www.openspc2.org/data/m/(コマンド名大文字).txt"<br />
 例 ?"ml get www.openspc2.org/data/m/ABS.txt"
 
 ### バージョン表記の注意
