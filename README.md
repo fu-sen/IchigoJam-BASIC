@@ -34,7 +34,7 @@ https://github.com/fu-sen/IJHELP<br />
 古籏 一浩さんがこの一覧から MixJuice 対応にしたバージョンもあります。
 
 https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
-?"ml get http://www.openspc2.org/data/m/"
+?"ml get www.openspc2.org/data/m/"
 
 ### バージョン表記の注意
 
