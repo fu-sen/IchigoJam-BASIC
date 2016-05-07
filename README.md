@@ -26,8 +26,15 @@ https://www.facebook.com/groups/ichigojam/626631837476573/
 
 MixJuice を接続した IchigoJam で直接参照できます。
 
-?"ML GET FU-SEN.GITHUB.IO/IJHELP/"
+この一覧を公開している ふうせん Fu-sen. による制作はこちら。
 
+https://github.com/fu-sen/IJHELP<br />
+?"ML GET fu-sen.github.io/IJHELP/"
+
+古籏 一浩さんがこの一覧から MixJuice 対応にしたバージョンもあります。
+
+https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
+?"ml get http://www.openspc2.org/data/m/"
 
 ### バージョン表記の注意
 
