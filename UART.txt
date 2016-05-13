@@ -1,42 +1,42 @@
 UART
-1.1.0�`
+1.1.0～
 -----------------------------------------------------------
-[ �@�\ ]
-�V���A���ւ̏o�͂�ݒ肵�܂�
+[ 機能 ]
+シリアルへの出力を設定します
 
-[ �R�}���h ���� ]
-UART <���[�h1>
-UART <���[�h1>[,<���[�h2>] (1.1 beta13�`)
+[ コマンド 書式 ]
+UART <モード1>
+UART <モード1>[,<モード2>] (1.1 beta13～)
 
-[ �� ]
+[ 例 ]
 UART 0
 UART 1,0
 
-[ ��� ]
-<���[�h1> �͎��̂Ƃ���ł��B�N�����̃f�t�H���g�� 2 �ł��B
+[ 解説 ]
+<モード1> は次のとおりです。起動時のデフォルトは 2 です。
 
-	0 �o�͂��s��Ȃ�
-    1 PRINT �̂ݏo�͂��s���B���s�R�[�h LF
-	    1.0 �ȑO�̓���ɋ߂��o�͂ƂȂ�܂��B
-        1.1 beta6 �ł� UART 3 �Ɠ�������ɂȂ�܂��B
-		1.1 beta7 �ł͏]���d�l�ɖ߂���Ă��܂��B
-    2 PRINT�ELOCATE�ECLS�ESCROLL �̏o�͂��s���B���s�R�[�h LF
-        �R�}���h�ɉ����Ď��̃R�[�h���o�͂��܂��B
-        LOCATE   �� CHR$(#15,#20+<X���W>,#20+<Y���W>)
-        CLS      �� CHR$(#13,#0C)
-        SCROLL   �� CHR$(#15,<�J�[�\������>)
-                    <�J�[�\������>=#1C ���E#1D �E�E#1E ��E#1F ��
-    3 PRINT �̂ݏo�͂��s���B���s�R�[�h CR+LF�A�o�b�t�@�t
-	    1.1 beta7 ���L���ł��B
+	0 出力を行わない
+    1 PRINT のみ出力を行う。改行コード LF
+	    1.0 以前の動作に近い出力となります。
+        1.1 beta6 では UART 3 と同じ動作になります。
+		1.1 beta7 では従来仕様に戻されています。
+    2 PRINT・LOCATE・CLS・SCROLL の出力を行う。改行コード LF
+        コマンドに応じて次のコードを出力します。
+        LOCATE   → CHR$(#15,#20+<X座標>,#20+<Y座標>)
+        CLS      → CHR$(#13,#0C)
+        SCROLL   → CHR$(#15,<カーソル方向>)
+                    <カーソル方向>=#1C 左・#1D 右・#1E 上・#1F 下
+    3 PRINT のみ出力を行う。改行コード CR+LF、バッファ付
+	    1.1 beta7 より有効です。
 
-�V���A���M���ɉ����Đ��䂷��@��iPanCake �Ȃǁj�E�A�v���ł́A
-UART �����s���AIchigoJam ����̑��o��ύX����K�v������܂��B
+シリアル信号に応じて制御する機器（PanCake など）・アプリでは、
+UART を実行し、IchigoJam からの送出を変更する必要があります。
 
-1.1 beta13 ��� <���[�h2> �ɑΉ����Ă��܂��B
-���̂Ƃ���ł��B�N�����̃f�t�H���g�� 1 �ł��B
+1.1 beta13 より <モード2> に対応しています。
+次のとおりです。起動時のデフォルトは 1 です。
 
-	0 �V���A������̑��o�𖳎�
-    1 �ʏ퓮�� (�L�ڈȊO�̐��l���w�肵���ꍇ���L��)
-    2 ESC �L�[�𖳎�
-      ����ɂ��A�V���A����� ESC �R�[�h�����o���ꂽ�ꍇ��
-	  �v���O��������~����Ă��܂��̂�h���܂��B
+    0 シリアルからの送出を無視
+    1 通常動作 (記載以外の数値を指定した場合も有効)
+    2 ESC キーを無視
+      これにより、シリアルより ESC コードが送出された場合に
+      プログラムが停止されてしまうのを防ぎます。
