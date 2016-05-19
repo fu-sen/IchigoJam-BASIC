@@ -17,4 +17,3 @@ PRINT STR$(M+5,3)
 A="ABCDE":PRINT STR$(A+2) とすると CDE が出力されます。 
 <長さ> で出力する文字数を指定できます。省略した場合は全て出力します。
 A="ABCDE":PRINT STR$(A+2,2)　とすると CD が出力されます。
-

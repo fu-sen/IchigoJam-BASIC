@@ -5,11 +5,11 @@ GOSUB の次へ戻ります。
 
 [ コマンド 書式 ]
 RETURN
-RTN
+RTN (1.1.0 beta 1〜)
 
 [ 例 ]
 RETURN
-RTN
+RTN (1.1.0 beta 1〜)
 
 [ 解説 ]
 GOSUB で飛んできたサブルーチンを実行後、

@@ -14,7 +14,8 @@ SCROLL 2
 上下左右の一方向に1文字分スクロールを行います。
 <方向> は次のとおりです。
 UP・DOWN・LEFT・RIGHT は 1.0.0 beta7 より対応しています。
-0・UP    = 上
-1・RIGHT = 右
-2・DOWN  = 下
-3・LEFT  = 左
+
+    0・UP    = 上
+    1・RIGHT = 右
+    2・DOWN  = 下
+    3・LEFT  = 左
