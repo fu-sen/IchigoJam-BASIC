@@ -16,3 +16,4 @@ PRINT LANG()
 
     1 カタカナ・ローマ字入力
     2 キリル文字・モンゴル語配列（IchigoJam mn）
+    3 ベトナム語（IchigoJam vi）
