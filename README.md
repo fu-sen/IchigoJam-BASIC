@@ -13,7 +13,6 @@ Windows ではメモ帳を使用する事が可能です。
 * IchigoJam (公式) http://ichigojam.net/
 * イチゴジャム レシピ (公開元) http://15jamrecipe.jimdo.com/
 
-
 ### PDF 版
 
 西澤 眞人さんが PDF 化した IchigoJam+PanCakeコマンドリファレンス を<br />
@@ -21,7 +20,6 @@ Facebook グループ IchigoJam-FAN 内で公開しています。<br />
 紙面で一覧したい場合はこちらを印刷し、ご利用下さい。
 
 https://www.facebook.com/groups/ichigojam/626631837476573/
-
 
 ### MixJuice 版
 
@@ -55,6 +53,16 @@ https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
 （1.0.2 beta12 は beta11 までの内容を一部含んでいない機能があります）<br />
 ただし、実際には 1.0.2 は正式リリースされず、1.1.1 が正式リリースされています。
 
+### IchigoJam 他バージョンの表記について
+
+IchigoJam BIG は通常の IchigoJam とバージョンが連動しています。<br />
+IchigoJam BIG で動作が異なる場合は記載を行っていますが、<br />
+記載がない場合は通常の IchigoJam と同じ動作になります。
+
+IchigoJam PC は対応している命令をテキスト上部で記載しています。<br />
+特にバージョン表記がない場合は初版リリースの 0.1 beta 1 より対応します。<br />
+IchigoJam PC 0.1 beta 1〜0.1 beta 12 は IchigoJam 1.1 がベースですので、<br />
+基本的に 1.1 の仕様を継承します。<br />
 
 ### ライセンス
 
