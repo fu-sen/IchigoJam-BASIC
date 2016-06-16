@@ -28,7 +28,7 @@ MixJuice を接続した IchigoJam で直接参照できます。
 この一覧を公開している ふうせん Fu-sen. による制作はこちら。
 
 https://github.com/fu-sen/IJHELP<br />
-?"MJ GET fu-sen.github.io/IJHELP/"
+?"MJ GETS fu-sen.github.io/IJHELP/"
 
 古籏 一浩さんがこの一覧から MixJuice 対応にしたバージョンもあります。
 
