@@ -1,0 +1,54 @@
+IchigoJam PC バージョン履歴
+
+2016/01/09 IchigoJam 0.1 PC beta 12
+・FILE() の修正
+・キーリピート速度を調整
+
+2016/01/04 IchigoJam PC 0.1 beta 11
+・BEEP PLAY 対応！
+・消費電力の低下
+
+2016/01/04 IchigoJam PC 0.1 beta 10
+・起動時 UART 0,0 に変更(シリアル無効)
+・-notimer 同梱(VMware などで起動しない問題の対策)
+
+2016/01/03 IchigoJam PC 0.1 beta 9
+・ローマ字カナ対応
+・絵文字対応（左ALT）
+・LED を Caps Lock LED に変更
+
+2016/01/03 IchigoJam PC 0.1 beta 8
+・不具合修正(シリアルポート)
+
+2016/01/03 IchigoJam for PC 0.1 beta 7
+・VirtualBox 用設定ファイル同梱
+・シリアルポート対応
+・不具合修正
+
+2016/01/02 IchigoJam for PC 0.1 beta 6
+・INPUT 対応
+・CLT 対応
+・iso ファイル同梱
+・LED の点灯を Scroll Lock LED に変更
+
+2016/01/02 IchigoJam for PC 0.1 beta 5
+・LED 対応
+・PCG 対応
+・SAVE・LOAD 0〜3 対応 (電源オフで消える、RESET では消えない)
+
+2016/01/01 IchigoJam for PC 0.1 beta 4
+・WAIT コマンド対応
+・カーソルが点滅するように
+・画面描画を 1/60 秒に一度へ変更
+
+2016/01/01 IchigoJam for PC 0.1 beta 3
+・起動時間を短縮
+・不具合修正(ファンクションキー)
+
+2016/01/01 IchigoJam for PC 0.1 beta 2
+・カーソル移動対応
+・ファンクションキーに一部対応
+
+2016/01/01 IchigoJam for PC 0,1 beta 1 (IchigoJam BASIC 1.1 より)
+・初版公開
+

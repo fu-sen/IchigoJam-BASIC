@@ -7,10 +7,16 @@ IchigoJam バージョン履歴
 2016/05/30 IchigoJam BIG 1.2.0
 ・文字サイズを 2 倍の大きさに、座標を半分に
 
+2016/05/20 1.2.0（更新）
+・ベトナム語版(IchigoJam vi)を同梱
+・モンゴル語版(IchigoJam mn)を同梱
+※カナ版は変更なし
+
 2016/04/19 1.2.0
-・小型 LED 版（IchigoJam pocket）を同梱、モンゴル語版を外す
+・小型 LED 版(IchigoJam pocket)を同梱
+・モンゴル語版を外す
 ・フォントを更新
-・小型 LED 版（IchigoJam pocket）で VIDEO 0 に対応
+・小型 LED 版(IchigoJam pocket)で VIDEO 0 に対応
 ・挿入モードカーソル形状を変更
 ・COPY 第 3 パラメーターをマイナスで末尾からコピーに対応
 ・INKEY() シリアルから 0 受信時に #100 を返すよう変更
@@ -51,6 +57,10 @@ IchigoJam バージョン履歴
 ・キーバッファを 128 文字に拡大
 ・その他バグ修正
 
+2016/01/09 - IchigoJam PC 0.1 beta 12（初期は IchigoJam for PC）
+・1.1 をベースに x86 CPU のパソコンで動作するようにした IchigoJam
+　履歴は別途公開(バージョン 履歴 IchigoJam PC.txt)
+
 
 2015/12/21 - 1.1.1 (1.0.2 beta11 まで・1.1.0 beta・1.1 beta を含む)
 ・CONT・DEC$・LANG・LINE・PWM・RESET・SRND・STOP・UART 追加
@@ -68,7 +78,7 @@ IchigoJam バージョン履歴
 ・言語(カナ)変更に Ctrl＋Shift 追加
 ・Ins 切り替えをShift+右 Alt→Ctrl+Alt 変更
 ・16進数・予約語後スペースで区切り解読するよう変更
-・モンゴル語対応
+・モンゴル語対応(IchigoJam mn)
 ・PS/2 初期化コマンド追加(対応キーボード拡大)
 ・その他バグ修正(シフトを算術→論理に変更など)
 
