@@ -11,7 +11,7 @@ RAW で参照した場合、またファイルをダウンロードした場合<
 Windows ではメモ帳を使用する事が可能です。
 
 * IchigoJam (公式) http://ichigojam.net/
-* イチゴジャム レシピ (公開元) http://15jamrecipe.jimdo.com/
+* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
 ### PDF 版
 
@@ -76,7 +76,7 @@ http://ichigojam.net/IchigoJam-BASIC-reference.pdf
 Facebook グループ IchigoJam-FAN<br />
 https://www.facebook.com/groups/ichigojam/<br />
 
-Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2016.
+Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2017.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
 
