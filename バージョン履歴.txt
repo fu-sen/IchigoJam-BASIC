@@ -1,16 +1,21 @@
 IchigoJam バージョン履歴
 
-2017/04/10 1.2 beta 44 (ここより IchigoJam web by WebAssembly を含む)
+2017/05/05 1.2 beta 47 (ここより IchigoJam web by WebAssembly を含む)
 ・IchigoJam ap (Windows・macOS) 同梱
-・SWITCH 追加 F12・Pause Break キー割り当て
+・SWITCH 追加 F10・Pause Break キー割り当て
 ・I2C 省略表記対応・調整
 ・LIST 16384 までを通常表示、16385 以降は隠し行で第 2 パラメータ 0 で表示するように
-・SOUND プルダウンでの自動起動を無効に
-・VIDEO 3〜9 拡大表示対応
-・ST7565・ST7567 液晶モジュールの出力に対応
-・F4 キー LIST の頭に行頭削除を追加
+・OUT 入力のプルアップに対応
+・SOUND プルダウンでの自動起動を無効、BTN が GND で自動起動のみに
+・UART CR→LF 変換追加
+・VIDEO 3〜8 拡大表示対応
+・ST7567 液晶モジュールの出力に対応
+・F4 キー LIST の頭にカーソル行以降削除を追加
+・F9 キー FILES の改行を削除
+・F11 カーソル行以下削除を追加
 ・ヒデオ出力 PAL 地域向けファームウェア追加
 ・ラベルを空白で区切り記号扱いに追加
+・マシン語呼び出し時 R3 へ割り算用アドレスを設定するように
 ・その他バグ修正
 
 2016/06/14 1.2.1 (1.2.0 より)
