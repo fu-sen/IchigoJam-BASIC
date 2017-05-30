@@ -1,6 +1,6 @@
 IchigoJam バージョン履歴
 
-2017/05/05 1.2 beta 47 (ここより IchigoJam web by WebAssembly を含む)
+2017/05/30 1.2.2 (ここより IchigoJam web by WebAssembly を含む)
 ・IchigoJam ap (Windows・macOS) 同梱
 ・SWITCH 追加 F10・Pause Break キー割り当て
 ・I2C 省略表記対応・調整
