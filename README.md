@@ -23,13 +23,6 @@ https://www.facebook.com/groups/ichigojam/626631837476573/
 
 ### MixJuice 版
 
-MixJuice を接続した IchigoJam で直接参照できます。
-
-この一覧を公開している ふうせん Fu-sen. による制作はこちら。
-
-https://github.com/fu-sen/IJHELP<br />
-?"MJ GETS fu-sen.github.io/IJHELP/"
-
 古籏 一浩さんがこの一覧から MixJuice 対応にしたバージョンもあります。
 
 https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
