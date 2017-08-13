@@ -41,6 +41,8 @@ IchigoJam PC・IchigoJam ap・IchigoJam Web by WebAssembly は
         12027 = 1.2.1 (正式版。1.2 beta 27 に同じ)
  12230〜12247 = 1.2 beta 30〜47、下2桁が beta 番号
         12247 = 1.2.2 (正式版。1.2 beta 47 に同じ)
+        12348 = 1.2 beta 48 
+        12348 = 1.2.3 (正式版。1.2 beta 48 に同じ)
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。

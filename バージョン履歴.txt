@@ -1,5 +1,8 @@
 IchigoJam バージョン履歴
 
+2017/08/?? 1.2.3
+・バグ修正(IchigoJam U 自動起動・配列を使用した INPUT)
+
 2017/05/30 1.2.2 (ここより IchigoJam web by WebAssembly を含む)
 ・IchigoJam ap (Windows・macOS) 同梱
 ・SWITCH 追加 F10・Pause Break キー割り当て
