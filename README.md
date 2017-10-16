@@ -63,12 +63,16 @@ IchigoJam BASIC RPi は特に記載がなければ初版 1.2.0 から同等に�
 
 ### ライセンス
 
-この文章は CC BY で公式に公開されている PDF 文章「BASICリファレンス」や<br />
+この文章は CC BY で公式に公開されている PDF 文章「BASICリファレンス」、<br />
+および「IchigoJam BASIC RPi ドキュメント」、<br />
 Facebook グループ「IchigoJam-FAN」などの情報を元に<br />
 志賀 慶一 (ふうせん Fu-sen.) が独自に文章化しているものです。
 
 BASICリファレンス: CC BY by 福野泰介 - Taisuke Fukuno / jig.jp<br />
 http://ichigojam.net/IchigoJam-BASIC-reference.pdf
+
+IchigoJam BASIC RPi ドキュメント<br />
+https://ichigojam.github.io/RPi/index_ja.html
 
 Facebook グループ IchigoJam-FAN<br />
 https://www.facebook.com/groups/ichigojam/<br />
