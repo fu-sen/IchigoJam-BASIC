@@ -32,7 +32,7 @@ https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
 ### バージョン表記の注意
 
 0.9.8 および 0.9.9 は正式リリースがなく、RC 版しか存在しません。<br />
-0.9.8 または 0.9.9 と記載している場合は、それらの RC 版全般を指します。
+0.9.8 または 0.9.9 と記載している場合は、それらの RC 版全般を指します。<br />
 また 1.0.0 および 1.1 以降では beta 版を<br />
 まとめて表記している場合があります。<br />
 バージョン表記の 1.1.0 は 1.1.0 beta1 および 1.1 beta を含みます。<br />
@@ -54,13 +54,12 @@ IchigoJam BIG で動作が異なる場合は記載を行っていますが、<br
 
 IchigoJam PC は対応している命令をテキスト上部で記載しています。<br />
 特にバージョン表記がない場合は初版リリースの 0.1 beta 1 より対応します。<br />
-IchigoJam PC 0.1 beta 1〜0.1 beta 12 は IchigoJam 1.1 がベースですので、<br />
+IchigoJam PC 0.1 beta 1〜0.1 beta 12 は IchigoJam 1.1 がベースですので、
 基本的に 1.1 の仕様を継承します。<br />
 
 IchigoJam BASIC RPi は特に記載がなければ初版 1.2.0 から同等に動作します。<br />
 （IchigoJam BASIC RPi 1.2.0 は IchigoJam BASIC 1.2.3 から継承されています）<br />
-非対応の場合は「IchigoJam BASIC RPi 非対応」とテキスト上部で記載しています。<br />
-
+非対応の場合は「IchigoJam BASIC RPi 非対応」とテキスト上部で記載しています。
 
 ### ライセンス
 
