@@ -18,6 +18,7 @@ OUT 63
 2014年5月～2015年1月頃に発送されている IchigoJam では
 OUT5 が EX3、OUT6 が EX4 と表記されています。
 また LED は OUT7 となります。（OUT 7,n は LED n に同じとなります）
+IchigoJam BASIC RPi では OUT 7 と LED は別に扱われています。
 
 <端子>, を付けない場合の <値> は 0～2047 で、
 OUT1～6・LED・IN1〜4 が

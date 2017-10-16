@@ -21,3 +21,5 @@ IchigoJam PC ではキーボードのランプが点灯・消灯します。
 OUT7 として LED が使えるようになり、
 例えば OUT 7,n で LED n と同じ動作ができるようになっています。
 OUT を参照して下さい。
+
+IchigoJam BASIC RPi では OUT 7 と LED は別に扱われています。
