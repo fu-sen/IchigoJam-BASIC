@@ -14,3 +14,6 @@ TEMPO 120
 
 [ 解説 ]
 PLAY の T に同じです。
+
+IchigoJam BASIC RPi では何も動作しません。
+

@@ -16,3 +16,5 @@ SWITCH
 SWITCH の実行により液晶出力になります。
 再度実行でビデオ出力へ戻ります。
 
+IchigoJam BASIC RPi では何も動作しません。
+

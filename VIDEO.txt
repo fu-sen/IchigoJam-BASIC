@@ -49,4 +49,7 @@ TICK()・WAIT の値も影響も受けます。
 
 1.2.0 で公開された IchigoJam BIG と同じ表示は VIDEO 3 で可能です。
 
+IchigoJam BASIC RPi では何も動作しません。
+
+
 
