@@ -1,7 +1,7 @@
 SOUND
 1.0.0～
 IchigoJam PC 0.1 beta 11〜
-IchigoJam BASIC RPi 非対応
+IchigoJam BASIC RPi 1.2b17〜
 -----------------------------------------------------------
 [ 機能 ]
 音の出力有無を検出します。
@@ -18,6 +18,4 @@ SOUND()
 ダイレクトモードではコマンド実行で再生が停止しますが、
 その時再生されていた場合は SOUND で検出できます。
 
-IchigoJam BASIC RPi では PLAY・TEMPO も非対応です。
-常に 0 を返します。
 

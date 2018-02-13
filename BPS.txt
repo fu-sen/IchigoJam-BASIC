@@ -7,6 +7,7 @@ IchigoJam PC
 
 [ コマンド 書式 ]
 BPS [<通信速度>]
+BPS [<通信速度>][,<I2C 通信速度>] (RPi 1.2b18〜)
 
 [ 例 ]
 BPS 9600
@@ -21,3 +22,7 @@ BPS 0
          -2  38400bps
 
 マイナスの値は 1.1 beta16 以降で有効です。
+
+Ichigojam BASIC RPi では 1.2b18 より <I2C 通信速度> が設定できます。
+値は kHz です。デフォルトは 400 で、IchigoJam BASIC と同じになります。 
+

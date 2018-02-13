@@ -1,7 +1,7 @@
 PLAY
 0.9.0～
 IchigoJam PC 0.1 beta 11〜
-IchigoJam BASIC RPi 非対応
+IchigoJam BASIC RPi 1.2b17〜
 -----------------------------------------------------------
 [ 機能 ]
 音を演奏します。
@@ -52,5 +52,6 @@ SOUND 端子は EX2 と記載されています。
 これは通常変数で、MML を文字列に入れた開始番地です。
 また、1.2 beta 3 より文字数の制限はなくなっています。
 
-IchigoJam BASIC RPi では何も動作しません。
+IchigoJam BASIC RPi では 1.2b17 より対応しています。
+圧電サウンダを物理 PIN 29 と GND に接続します。
 
