@@ -1,0 +1,46 @@
+IchigoJam BASIC RPi バージョン履歴
+
+※日付は次の通り
+・() なし Facebook グループ IchigoJam-FAN への投稿による公開日
+         https://www.facebook.com/groups/ichigojam/search/?query=IchigoJam%20BASIC%20RPi
+・() あり GitHub 更新による公開日
+         https://github.com/IchigoJam/RPi
+一部あえて日付順に並べていないところがある
+
+2018/02/02 IchigoJam BASIC 1.2b19RPi
+・BPS 第 2 引数による I2C 通信速度設定対応
+・i2c_clock.txt による I2C 通信速度設定を廃止
+
+2018/02/01 IchigoJam BASIC 1.2b18RPi
+・BEEP・PLAY・SOUND・TEMPO 対応
+・KBD コマンドで SD カード keymap.txt へ保存
+
+2018/01/19 IchigoJam BASIC 1.2b17RPi
+・VIDEO 対応
+・フォントのアンチエイリアス無効設定対応 (config.txt に scaling_kernel=8 追加）
+
+2018/01/12 IchigoJam BASIC 1.2b16RPi
+・USR 対応
+・SAVE・LOAD・FILES の EEPROM 対応、SD カードプログラム番号変更
+・I2C デフォルト通信速度を 400kHz に変更
+・I2C 通信速度設定に対応（i2c_clock.txt）
+
+(2017/12/25) IchigoJam BASIC 1.2.4RPi
+・1.2b15RPi の正式版化
+
+2017/12/07 IchigoJam BASIC 1.2b15RPi
+・カーソルの点滅対応
+・画面線画の高速化
+
+(2017/12/09) IchigoJam BASIC 1.2.3RPi
+・1.2b14RPi の正式版化
+
+2017/11/29 IchigoJam BASIC 1.2b14RPi
+・一部キーボードでテンキー Home・End・PageUp・PageDown・Ins が効かない問題の改善
+・一部キーボードで Shift・Ctrl・Alt が効かない問題の改善
+・一部キーボードでオートリピートが効かない問題の改善
+・CLS・SCROLL・POKE・COPY・CLP の画面の変更が PRINT まで反映されない問題の改善
+
+2017/10/16(2017/10/11) IchigoJam BASIC 1.2.0RPi
+・初版正式公開
+
