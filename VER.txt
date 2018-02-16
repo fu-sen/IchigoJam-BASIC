@@ -12,7 +12,7 @@ VER()
 ? VER()
 
 [ 解説 ]
-返し値のバージョン番号は次のとおりです。(2017年4月現在)
+返し値のバージョン番号は次のとおりです。(2018年2月現在)
 IchigoJam PC・IchigoJam ap・IchigoJam Web by WebAssembly は
 派生元の IchigoJam BASIC のバージョン番号になります。
 0.9.3 以前はエラーになります。
@@ -46,7 +46,7 @@ IchigoJam PC・IchigoJam ap・IchigoJam Web by WebAssembly は
         12011 = IchigoJam BASIC 1.2.0RPi ★
         12314 = IchigoJam BASIC 1.2b14RPi
         12314 = IchigoJam BASIC 1.2.3RPi
-        12415 = IchigoJam BASIC 1.2b16RPi
+        12415 = IchigoJam BASIC 1.2b15RPi
         12415 = IchigoJam BASIC 1.2.4RPi ★
  12516〜12519 = IchigoJam BASIC 1.2b16RPi〜1.2b19RPi、下2桁が beta 番号
 
