@@ -57,8 +57,8 @@ IchigoJam PC は対応している命令をテキスト上部で記載してい�
 IchigoJam PC 0.1 beta 1〜0.1 beta 12 は IchigoJam 1.1 がベースですので、
 基本的に 1.1 の仕様を継承します。<br />
 
-IchigoJam BASIC RPi は特に記載がなければ初版 1.2.0 から同等に動作します。<br />
-（IchigoJam BASIC RPi 1.2.0 は IchigoJam BASIC 1.2.3 から継承されています）<br />
+IchigoJam BASIC RPi は特に記載がなければ正式版の初版 1.2.0RPi から同等に動作します。<br />
+（IchigoJam BASIC 1.2.0RPi は IchigoJam BASIC 1.2.3 から継承されています）<br />
 非対応の場合は「IchigoJam BASIC RPi 非対応」とテキスト上部で記載しています。
 
 ### ライセンス
