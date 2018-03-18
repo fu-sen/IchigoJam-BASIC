@@ -37,14 +37,18 @@ IchigoJam BASIC RPi バージョン履歴
 (2017/12/09) IchigoJam BASIC 1.2.3RPi
 ・1.2b14RPi の正式版化
 
-[2017/12/17] IchigoJam BASIC+ 1.2.2RPi
-・オートリピート対応
-
 2017/11/29 IchigoJam BASIC 1.2b14RPi
+・CLS・SCROLL・POKE・COPY・CLP の画面の変更が PRINT まで反映されない問題の改善
+
+[2017/12/17] IchigoJam BASIC+ 1.2.2RPi
 ・一部キーボードでテンキー Home・End・PageUp・PageDown・Ins が効かない問題の改善
 ・一部キーボードで Shift・Ctrl・Alt が効かない問題の改善
 ・一部キーボードでオートリピートが効かない問題の改善
-・CLS・SCROLL・POKE・COPY・CLP の画面の変更が PRINT まで反映されない問題の改善
+※ I-O DATA のサイト上では「オートリピート対応」とのみ記載
+※ フリー版 IchigoJam BASIC 1.2.2RPi はサイト上で公開されていない
+
+[2017/11/22〜2017/12/下旬] IchigoJam BASIC+ 1.2.0RPi
+・IchigoJam BASIC+ 初版発売
 
 2017/10/16(2017/10/11) IchigoJam BASIC 1.2.0RPi
 ・初版正式公開
