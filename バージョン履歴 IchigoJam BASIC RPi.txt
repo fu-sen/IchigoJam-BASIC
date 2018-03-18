@@ -1,10 +1,12 @@
 IchigoJam BASIC RPi バージョン履歴
 
 ※日付は次の通り
-・() なし Facebook グループ IchigoJam-FAN への投稿による公開日
+・()[] なし Facebook グループ IchigoJam-FAN への投稿による公開日
          https://www.facebook.com/groups/ichigojam/search/?query=IchigoJam%20BASIC%20RPi
-・() あり GitHub 更新による公開日
+・() GitHub 更新による公開日
          https://github.com/IchigoJam/RPi
+・[] I-O DATA による公開日
+         http://www.iodata.jp/lib/product/u/5813_etc.htm
 一部あえて日付順に並べていないところがある
 
 2018/02/02 IchigoJam BASIC 1.2b19RPi
@@ -34,6 +36,9 @@ IchigoJam BASIC RPi バージョン履歴
 
 (2017/12/09) IchigoJam BASIC 1.2.3RPi
 ・1.2b14RPi の正式版化
+
+[2017/12/17] IchigoJam BASIC+ 1.2.2RPi
+・オートリピート対応
 
 2017/11/29 IchigoJam BASIC 1.2b14RPi
 ・一部キーボードでテンキー Home・End・PageUp・PageDown・Ins が効かない問題の改善
