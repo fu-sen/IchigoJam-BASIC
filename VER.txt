@@ -39,7 +39,7 @@ IchigoJam PC・IchigoJam ap・IchigoJam Web by WebAssembly は
         12026 = 1.2.0 IchigoJam BIG
         12027 = 1.2 beta 27
         12027 = 1.2.1 (正式版。1.2 beta 27 に同じ)
- 12230〜12247 = 1.2 beta 30〜47、下2桁が beta 番号
+ 12230～12247 = 1.2 beta 30～47、下2桁が beta 番号
         12247 = 1.2.2 (正式版。1.2 beta 47 に同じ)
         12348 = 1.2 beta 48 
         12348 = 1.2.3 (正式版。1.2 beta 48 に同じ)
@@ -48,12 +48,12 @@ IchigoJam PC・IchigoJam ap・IchigoJam Web by WebAssembly は
         12314 = IchigoJam BASIC 1.2.3RPi
         12415 = IchigoJam BASIC 1.2b15RPi
         12415 = IchigoJam BASIC 1.2.4RPi ★
- 12516〜12519 = IchigoJam BASIC 1.2b16RPi〜1.2b19RPi、下2桁が beta 番号
- 12449〜12456 = 1.2 beta 49〜56、下2桁が beta 番号
+ 12516～12519 = IchigoJam BASIC 1.2b16RPi～1.2b19RPi、下2桁が beta 番号
+ 12449～12456 = 1.2 beta 49～56、下2桁が beta 番号
+        12520 = IchigoJam BASIC 1.2b20RPi
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。
    ただし 1.0.2 の正式公開は行われず、1.1.0 が正式公開となっています。
 ★ IchigoJam BASIC RPi は 1.2.4 RPi まで 1.2.3 からの派生です。
    1.2.3RPi 以外に 1.2.0RPi・1.2.4Ri も 1.2.3 からである事にご注意下さい。
-

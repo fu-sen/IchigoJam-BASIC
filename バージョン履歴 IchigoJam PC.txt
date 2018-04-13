@@ -34,7 +34,7 @@ IchigoJam PC バージョン履歴
 2016/01/02 IchigoJam for PC 0.1 beta 5
 ・LED 対応
 ・PCG 対応
-・SAVE・LOAD 0〜3 対応 (電源オフで消える、RESET では消えない)
+・SAVE・LOAD 0～3 対応 (電源オフで消える、RESET では消えない)
 
 2016/01/01 IchigoJam for PC 0.1 beta 4
 ・WAIT コマンド対応

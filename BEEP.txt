@@ -1,7 +1,7 @@
-BEEP
+﻿BEEP
 0.9.0～
-IchigoJam PC 0.1 beta 11〜
-IchigoJam BASIC RPi 1.2b17〜
+IchigoJam PC 0.1 beta 11～
+IchigoJam BASIC RPi 1.2b17～
 -----------------------------------------------------------
 [ 機能 ]
 BEEP を出します。

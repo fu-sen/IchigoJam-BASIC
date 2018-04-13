@@ -54,7 +54,7 @@ IchigoJam BIG で動作が異なる場合は記載を行っていますが、<br
 
 IchigoJam PC は対応している命令をテキスト上部で記載しています。<br />
 特にバージョン表記がない場合は初版リリースの 0.1 beta 1 より対応します。<br />
-IchigoJam PC 0.1 beta 1〜0.1 beta 12 は IchigoJam 1.1 がベースですので、
+IchigoJam PC 0.1 beta 1～0.1 beta 12 は IchigoJam 1.1 がベースですので、
 基本的に 1.1 の仕様を継承します。<br />
 
 IchigoJam BASIC RPi は特に記載がなければ正式版の初版 1.2.0RPi から同等に動作します。<br />

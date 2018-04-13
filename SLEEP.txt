@@ -23,4 +23,3 @@ IchigoJam 本体のボタンを押すと、IchigoJam の起動状態に戻りま
 この際は起動表示が行われなくなっています。
 
 IchigoJam BASIC RPi では何も動作しません。
-

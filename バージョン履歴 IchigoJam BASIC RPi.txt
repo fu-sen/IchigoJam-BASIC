@@ -52,7 +52,7 @@ IchigoJam BASIC RPi バージョン履歴
 ※ I-O DATA のサイト上では「オートリピート対応」とのみ記載
 ※ フリー版 IchigoJam BASIC 1.2.2RPi はサイト上で公開されていない
 
-[2017/11/22?2017/12/下旬] IchigoJam BASIC+ 1.2.0RPi
+[2017/11/22～2017/12/下旬] IchigoJam BASIC+ 1.2.0RPi
 ・IchigoJam BASIC+ 初版発売
 
 2017/10/16(2017/10/11) IchigoJam BASIC 1.2.0RPi
