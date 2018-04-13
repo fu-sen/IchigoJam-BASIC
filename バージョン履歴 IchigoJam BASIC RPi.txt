@@ -9,6 +9,11 @@ IchigoJam BASIC RPi バージョン履歴
          http://www.iodata.jp/lib/product/u/5813_etc.htm
 一部あえて日付順に並べていないところがある
 
+2018/04/13 IchigoJam BASIC 1.2b20RPi
+・FILES 値なしで FILES 20（ファイル番号 0～20 を表示）に変更
+・1.2b56 (1.2.4 リリース候補) を反映（SOUND ピンのマシン語使用対応を除く）
+・カナ入力切り替えの 右Alt＋K を廃止
+
 2018/02/02 IchigoJam BASIC 1.2b19RPi
 ・BPS 第 2 引数による I2C 通信速度設定対応
 ・i2c_clock.txt による I2C 通信速度設定を廃止
@@ -47,7 +52,7 @@ IchigoJam BASIC RPi バージョン履歴
 ※ I-O DATA のサイト上では「オートリピート対応」とのみ記載
 ※ フリー版 IchigoJam BASIC 1.2.2RPi はサイト上で公開されていない
 
-[2017/11/22〜2017/12/下旬] IchigoJam BASIC+ 1.2.0RPi
+[2017/11/22?2017/12/下旬] IchigoJam BASIC+ 1.2.0RPi
 ・IchigoJam BASIC+ 初版発売
 
 2017/10/16(2017/10/11) IchigoJam BASIC 1.2.0RPi
