@@ -21,6 +21,7 @@ SWITCH 1
 <モード> を省略した場合はビデオ出力と液晶出力を切り替えます。
 ファンクションキー F10 で SWITCH が割り当てられています。
 
-DakeJacket 対応版（バージョンに D が付いている）では
+DakeJacket 対応版（バージョンに D が付いている）・
+sakura.io 対応機能拡張版（1.2b IoT）では
 SWITCH が削除されています。
 IchigoJam BASIC RPi では何も動作しません。
