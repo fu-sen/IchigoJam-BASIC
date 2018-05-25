@@ -58,8 +58,10 @@ IchigoJam PC 0.1 beta 1～0.1 beta 12 は IchigoJam 1.1 がベースですので
 基本的に 1.1 の仕様を継承します。<br />
 
 IchigoJam BASIC RPi は特に記載がなければ正式版の初版 1.2.0RPi から同等に動作します。<br />
-（IchigoJam BASIC 1.2.0RPi は IchigoJam BASIC 1.2.3 から継承されています）<br />
-非対応の場合は「IchigoJam BASIC RPi 非対応」とテキスト上部で記載しています。
+非対応の場合は「IchigoJam BASIC RPi 非対応」とテキスト上部で記載しています。<br />
+IchigoJam BASIC RPi の正式版バージョン表記は IchigoJam BASIC とずれがあります。<br />
+IchigoJam BASIC 1.2.0RPi～1.2.4RPi は IchigoJam BASIC 1.2.3 ベース、<br />
+IchigoJam BASIC 1.2.5RPi は IchigoJam BASIC 1.2.4 相当である事にご注意下さい。
 
 ### ライセンス
 
