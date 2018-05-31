@@ -9,7 +9,10 @@ IchigoJam BASIC RPi バージョン履歴
          http://www.iodata.jp/lib/product/u/5813_etc.htm
 一部あえて日付順に並べていないところがある
 
-2018/05/25 IchigoJam BASIC 1.2b21RPi（1.2.5Pi リリース候補）
+2018/05/31 IchigoJam BASIC 1.2b22RPi
+・IOT.IN IOT.OUT を 1.2b57 IoT の仕様に合わせる
+
+2018/05/25 IchigoJam BASIC 1.2b21RPi
 ・IOT.IN IOT.OUT 追加
 ・Raspberry Pi 3 B+
 ・不具合（OUT7,x でフリーズ）
