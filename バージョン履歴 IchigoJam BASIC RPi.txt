@@ -1,4 +1,4 @@
-IchigoJam BASIC RPi バージョン履歴
+﻿IchigoJam BASIC RPi バージョン履歴
 
 ※日付は次の通り
 ・()[] なし Facebook グループ IchigoJam-FAN への投稿による公開日
@@ -8,6 +8,9 @@ IchigoJam BASIC RPi バージョン履歴
 ・[] I-O DATA による公開日
          http://www.iodata.jp/lib/product/u/5813_etc.htm
 一部あえて日付順に並べていないところがある
+
+(2018/06/01) IchigoJam BASIC 1.2.5RPi
+・1.2b22RPi の正式版化
 
 2018/05/31 IchigoJam BASIC 1.2b22RPi
 ・IOT.IN IOT.OUT を 1.2b57 IoT の仕様に合わせる
