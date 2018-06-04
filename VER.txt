@@ -53,7 +53,7 @@ IchigoJam PC・IchigoJam ap・IchigoJam Web by WebAssembly は
         12456 = 1.2.4D (DakeJacket 版)
         12457 = 1,2b57 IoT (sakura.io 機能拡張版)
  12520～12522 = IchigoJam BASIC 1.2b20RPi～1.2b22RPi、下2桁が beta 番号
-        12522 = IchigoJam BASIC 1.2.4RPi ★
+        12522 = IchigoJam BASIC 1.2.5RPi ★
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。
