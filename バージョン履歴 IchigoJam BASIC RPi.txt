@@ -9,6 +9,9 @@
          http://www.iodata.jp/lib/product/u/5813_etc.htm
 一部あえて日付順に並べていないところがある
 
+(2018/06/08) IchigoJam BASIC 1.2.6RPi
+・不具合修正（Raspberry Pi 3+ の LED 動作）
+
 (2018/06/01) IchigoJam BASIC 1.2.5RPi
 ・1.2b22RPi の正式版化
 
@@ -18,7 +21,7 @@
 2018/05/25 IchigoJam BASIC 1.2b21RPi
 ・IOT.IN IOT.OUT 追加
 ・Raspberry Pi 3 B+
-・不具合（OUT7,x でフリーズ）
+・不具合修正（OUT7,x でフリーズ）
 
 2018/04/13 IchigoJam BASIC 1.2b20RPi
 ・FILES 値なしで FILES 20（ファイル番号 0～20 を表示）に変更
