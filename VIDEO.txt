@@ -1,4 +1,4 @@
-VIDEO
+﻿VIDEO
 0.9.4～
 IchigoJam PC
 1.2b17RPi～
@@ -50,5 +50,5 @@ TICK()・WAIT の値も影響も受けます。
 
 1.2.0 で公開された IchigoJam BIG と同じ表示は VIDEO 3 で可能です。
 
-IchigoJam BASIC RPi では 1.2b17 より対応しています。
+IchigoJam BASIC RPi では 1.2b17RPi・1.2.5RPi より対応しています。
 <表示> のみで <クロックダウン> は対応していません。
