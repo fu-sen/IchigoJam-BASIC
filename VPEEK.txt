@@ -1,5 +1,6 @@
 VPEEK
-0.7.2～
+IchigoJam BASIC 0.7.2～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

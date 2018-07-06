@@ -1,6 +1,7 @@
 ﻿KBD
-
-1.2.0RPi～
+IchigoJam BASIC 非対応
+IchigoJam BASIC RPi 1.2.0RPi～
+IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
 キーボード配列を変更します。

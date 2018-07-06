@@ -1,7 +1,7 @@
 SOUND
-1.0.0～
+IchigoJam BASIC 1.0.0～
+IchigoJam BASIC RPi 1.2.5RPi～
 IchigoJam PC 0.1 beta 11～
-1.2.5RPi～
 -----------------------------------------------------------
 [ 機能 ]
 音の出力有無を検出します。

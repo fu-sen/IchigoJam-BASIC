@@ -1,5 +1,6 @@
 RND
-0.3～
+IchigoJam BASIC 0.3～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

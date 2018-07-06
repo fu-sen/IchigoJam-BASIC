@@ -1,5 +1,7 @@
 PRINT
-
+IchigoJam BASIC
+IchigoJam BASIC RPi
+IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]
 画面へ表示します。シリアルへ出力します。

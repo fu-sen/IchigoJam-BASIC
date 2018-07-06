@@ -1,5 +1,6 @@
 ﻿VER
-0.9.4～
+IchigoJam BASIC 0.9.4～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

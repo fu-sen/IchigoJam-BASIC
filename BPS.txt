@@ -1,5 +1,6 @@
 BPS
-0.7.7～
+IchigoJam BASIC 0.7.7～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

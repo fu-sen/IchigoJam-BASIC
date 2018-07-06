@@ -1,7 +1,7 @@
 SLEEP
-0.7～
-IchigoJam PC
+IchigoJam BASIC 0.7～
 IchigoJam BASIC RPi 非対応
+IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]
 プログラムの実行を休止します。

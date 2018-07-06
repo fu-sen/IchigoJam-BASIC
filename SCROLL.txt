@@ -1,5 +1,6 @@
-SCROLL
-0.9.7～
+﻿SCROLL
+IchigoJam BASIC 0.9.7～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

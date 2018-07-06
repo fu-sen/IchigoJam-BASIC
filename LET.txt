@@ -1,5 +1,6 @@
 LET
-0.7.6～
+IchigoJam BASIC 0.7.6～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

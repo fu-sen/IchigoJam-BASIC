@@ -1,5 +1,6 @@
 GOTO
-
+IchigoJam BASIC
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

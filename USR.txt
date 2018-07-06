@@ -1,6 +1,7 @@
 USR
-0.9.8～
-IchigoJam BASIC RPi 非対応
+IchigoJam BASIC 0.9.8～
+IchigoJam BASIC RPi 1.2b16RPi～・1.2.5RPi～
+IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
 ARM Cortex-M0 のマシン語を呼び出します。

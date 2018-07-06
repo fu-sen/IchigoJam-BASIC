@@ -1,6 +1,7 @@
 IoT.IN
-1.2b57 IoT
-1.2b21RPi～・11.2.5RPi～
+IchigoJam BASIC 1.2b57 IoT
+IchigoJam BASIC RPi 1.2b21RPi～・1.2.5RPi～
+IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
 sakura.io モジュールからデータを受信します。

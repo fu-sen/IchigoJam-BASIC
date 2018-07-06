@@ -46,6 +46,10 @@ https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
 （1.0.2 beta12 は beta11 までの内容を一部含んでいない機能があります）<br />
 ただし、実際には 1.0.2 は正式リリースされず、1.1.1 が正式リリースされています。
 
+対応バージョンは上部コマンド名の下に記載しています。
+特にバージョン表記のない「IchigoJam BASIC」などは全バージョン対応です。
+「IchigoJam BASIC RPi 非対応」とある場合は対応していません。
+
 ### IchigoJam 他バージョンの表記について
 
 IchigoJam BIG は通常の IchigoJam とバージョンが連動しています。<br />
@@ -61,7 +65,12 @@ IchigoJam BASIC RPi は特に記載がなければ正式版の初版 1.2.0RPi �
 非対応の場合は「IchigoJam BASIC RPi 非対応」とテキスト上部で記載しています。<br />
 IchigoJam BASIC RPi の正式版バージョン表記は IchigoJam BASIC とずれがあります。<br />
 IchigoJam BASIC 1.2.0RPi～1.2.4RPi は IchigoJam BASIC 1.2.3 ベース、<br />
-IchigoJam BASIC 1.2.5RPi は IchigoJam BASIC 1.2.4 相当である事にご注意下さい。
+IchigoJam BASIC 1.2.5RPi～1.2.6RPi は IchigoJam BASIC 1.2b56・1.2b57 IoT 相当である事にご注意下さい。
+
+IchigoJam web は最新ベータ版を反映しています。?VER() などで確認しています。
+Windows および macOS で動作する Ichigojam ap は配布バージョン連動です。
+これらは IchigoJam BASIC と共通のため、特に考慮していませんが、
+パソコン動作による入出力非対応、本体ボタンなしなどの制限があります。
 
 ### ライセンス
 

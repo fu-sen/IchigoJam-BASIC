@@ -1,5 +1,7 @@
 OUT
-0.6～
+IchigoJam BASIC 0.6～
+IchigoJam BASIC RPi
+IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
 OUT 端子へ出力します。

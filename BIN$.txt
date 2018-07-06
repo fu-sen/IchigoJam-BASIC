@@ -1,5 +1,6 @@
 BIN$
-0.9.9～
+IchigoJam BASIC 0.9.9～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

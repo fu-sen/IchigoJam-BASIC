@@ -1,5 +1,6 @@
 WAIT
-
+IchigoJam BASIC
+IchigoJam BASIC RPi
 IchigoJam PC 0.1 beta 4～
 -----------------------------------------------------------
 [ 機能 ]

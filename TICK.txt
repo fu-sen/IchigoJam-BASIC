@@ -1,5 +1,6 @@
 TICK
-0.8.1～
+IchigoJam BASIC 0.8.1～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

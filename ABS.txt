@@ -1,5 +1,6 @@
 ABS
-0.8.7～
+IchigoJam BASIC 0.8.7～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

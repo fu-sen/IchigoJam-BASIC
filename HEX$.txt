@@ -1,5 +1,6 @@
 HEX$
-0.9.8～
+IchigoJam BASIC 0.9.8～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

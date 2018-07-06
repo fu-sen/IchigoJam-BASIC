@@ -1,5 +1,7 @@
 PWM
-1.1.0～
+IchigoJam BASIC 1.1.0～
+IchigoJam BASIC RPi
+IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
 OUT 端子にパルス幅変調を行います。

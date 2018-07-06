@@ -1,5 +1,6 @@
 CLK
-1.0.0～
+IchigoJam BASIC 1.0.0～
+IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]

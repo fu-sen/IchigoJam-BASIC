@@ -1,5 +1,6 @@
 ﻿FILE
-0.9.9～
+IchigoJam BASIC 0.9.9～
+IchigoJam BASIC RPi
 IchigoJam PC 0.1 beta 5～
 -----------------------------------------------------------
 [ 機能 ]
