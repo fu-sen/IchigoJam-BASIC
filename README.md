@@ -67,9 +67,9 @@ IchigoJam BASIC RPi の正式版バージョン表記は IchigoJam BASIC とず�
 IchigoJam BASIC 1.2.0RPi～1.2.4RPi は IchigoJam BASIC 1.2.3 ベース、<br />
 IchigoJam BASIC 1.2.5RPi～1.2.6RPi は IchigoJam BASIC 1.2b56・1.2b57 IoT 相当である事にご注意下さい。
 
-IchigoJam web は最新ベータ版を反映しています。?VER() などで確認しています。
-Windows および macOS で動作する Ichigojam ap は配布バージョン連動です。
-これらは IchigoJam BASIC と共通のため、特に考慮していませんが、
+IchigoJam web は最新ベータ版を反映しています。?VER() などで確認しています。<br />
+Windows および macOS で動作する Ichigojam ap は配布バージョン連動です。<br />
+これらは IchigoJam BASIC と共通のため、特に考慮していませんが、<br />
 パソコン動作による入出力非対応、本体ボタンなしなどの制限があります。
 
 ### ライセンス
