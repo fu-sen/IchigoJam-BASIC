@@ -31,6 +31,10 @@ https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
 
 ### バージョン表記の注意
 
+対応バージョンは上部コマンド名の下に記載しています。<br />
+特にバージョン表記のない「IchigoJam BASIC」などは全バージョン対応です。<br />
+「IchigoJam BASIC RPi 非対応」など「非対応」とある場合は対応していません。
+
 0.9.8 および 0.9.9 は正式リリースがなく、RC 版しか存在しません。<br />
 0.9.8 または 0.9.9 と記載している場合は、それらの RC 版全般を指します。<br />
 また 1.0.0 および 1.1 以降では beta 版を<br />
@@ -46,26 +50,21 @@ https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
 （1.0.2 beta12 は beta11 までの内容を一部含んでいない機能があります）<br />
 ただし、実際には 1.0.2 は正式リリースされず、1.1.1 が正式リリースされています。
 
-対応バージョンは上部コマンド名の下に記載しています。<br />
-特にバージョン表記のない「IchigoJam BASIC」などは全バージョン対応です。<br />
-「IchigoJam BASIC RPi 非対応」など「非対応」とある場合は対応していません。
-
-### IchigoJam 他バージョンの表記について
-
-IchigoJam BIG は通常の IchigoJam とバージョンが連動しています。<br />
-IchigoJam BIG で動作が異なる場合は記載を行っていますが、<br />
-記載がない場合は通常の IchigoJam と同じ動作になります。
-
-IchigoJam PC は対応している命令をテキスト上部で記載しています。<br />
-特にバージョン表記がない場合は初版リリースの 0.1 beta 1 より対応します。<br />
-IchigoJam PC 0.1 beta 1～0.1 beta 12 は IchigoJam 1.1 がベースですので、
-基本的に 1.1 の仕様を継承します。<br />
-
-IchigoJam BASIC RPi は特に記載がなければ正式版の初版 1.2.0RPi から同等に動作します。<br />
-非対応の場合は「IchigoJam BASIC RPi 非対応」とテキスト上部で記載しています。<br />
-IchigoJam BASIC RPi の正式版バージョン表記は IchigoJam BASIC とずれがあります。<br />
+IchigoJam BASIC RPi はバージョンとハードウェア仕様の違いによる動作有無があり、<br />
+別途対応バージョンを上部に表記しています。<br />
+IchigoJam BASIC RPi の正式版バージョン表記は<br />
+オリジナル版の IchigoJam BASIC とずれがあります。<br />
 IchigoJam BASIC 1.2.0RPi～1.2.4RPi は IchigoJam BASIC 1.2.3 ベース、<br />
 IchigoJam BASIC 1.2.5RPi～1.2.6RPi は IchigoJam BASIC 1.2b56・1.2b57 IoT 相当である事にご注意下さい。
+
+IchigoJam PC は独自のバージョン表記にため、別途対応バージョンを上部に表記しています。<br />
+IchigoJam PC 0.1 beta 1～0.1 beta 12 は IchigoJam BASIC 1.1 がベースですので、
+基本的に 1.1 の仕様を継承します。<br />
+
+IchigoJam BIG は通常の IchigoJam BASIC 1.2.0 ベースです。<br />
+IchigoJam BIG で動作が異なる場合は記載を行っていますが、<br />
+記載がない場合は通常の IchigoJam と同じ動作になります。<br />
+1.2.2 より VIDEO コマンドで同等の表示に対応しています。
 
 IchigoJam web は最新ベータ版を反映しています。?VER() で確認できます。<br />
 Windows および macOS で動作する Ichigojam ap は配布バージョン連動です。<br />
