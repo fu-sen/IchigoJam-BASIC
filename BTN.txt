@@ -18,6 +18,8 @@ I=BTN(SPACE)
 <値> は UP DOWN LEFT RIGHT SPACE 0 です。
 INKEY() と異なり、キーバッファに影響されない現在のキー状態を得られます。
 0 は省略時同様本体ボタンです。
+Raspberry Pi は本体ボタンがないため、
+IchigoJam BASIC RPi では BTN() および BTN(0) は使用できません。
 
 1.0.0 beta3～1.1 beta4、および 1.0.2 beta3～11 では
 BTN 端子は IN5 にも割り当てられています。
