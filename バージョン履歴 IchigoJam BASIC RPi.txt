@@ -20,7 +20,7 @@
 
 2018/05/25 IchigoJam BASIC 1.2b21RPi
 ・IOT.IN IOT.OUT 追加
-・Raspberry Pi 3 B+
+・Raspberry Pi 3 Model B+ 対応
 ・不具合修正（OUT7,x でフリーズ）
 
 2018/04/13 IchigoJam BASIC 1.2b20RPi
