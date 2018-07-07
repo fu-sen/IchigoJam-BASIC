@@ -16,7 +16,8 @@ UART 1,0
 
 [ 解説 ]
 <モード1> は次のとおりです。
-起動時のデフォルトは通常の IchigoJam では 2、
+起動時のデフォルトは
+IchigoJam BASIC・IchigoJam BASIC RPi では 2、
 IchigoJam PC では 0 です。
 
     0 出力を行わない
@@ -37,7 +38,9 @@ IchigoJam PC では 0 です。
 UART を実行し、IchigoJam からの送出を変更する必要があります。
 
 1.1 beta13 より <モード2> に対応しています。
-次のとおりです。起動時のデフォルトは通常の IchigoJam では 1、
+次のとおりです。
+起動時のデフォルトは
+IchigoJam BASIC・IchigoJam BASIC RPi では 1、
 IchigoJam PC では 0 です。
 
     0 シリアルからの送出を無視
