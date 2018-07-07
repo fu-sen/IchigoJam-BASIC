@@ -16,6 +16,10 @@ PRINT LANG()
 [ 解説 ]
 返す値は次のとおりです。
 
-    1 カタカナ・ローマ字入力 (IchigoJam PC を含む)
+    1 カタカナ・ローマ字入力
     2 キリル文字・モンゴル語配列（IchigoJam mn）
     3 ベトナム語（IchigoJam vi）
+
+IchigoJam BASIC RPi および IchigoJam PC は
+カナ文字・ローマ字入力のみが提供されているため、
+1 固定です。
