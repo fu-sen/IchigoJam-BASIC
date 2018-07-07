@@ -58,3 +58,5 @@ CHR$(224) 以降のキャラクタや配列・変数、
 
 IchigoJam BASIC と IchigoJam BASIC RPi（Raspberry Pi）では
 CPU の違いにより異なるところがあります。
+
+IchigoJam PC は動作しません。Syntax Error を返します。
