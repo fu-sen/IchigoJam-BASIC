@@ -22,6 +22,6 @@ BEEP
 音を出すためには圧電サウンダを SOUND と GND に接続します。
 2014年5月～2015年1月頃に発送された IchigoJam では
 SOUND 端子は EX2 と記載されています。
+
 IchigoJam BASIC RPi では 1.2b17 より対応しています。
 圧電サウンダを物理 PIN 29 と GND に接続します。
-
