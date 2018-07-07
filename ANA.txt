@@ -23,4 +23,3 @@ I=ANA(2)
 1.1 beta5～ は 0・9・省略時=BTN、2=IN2、5～8=OUT1～4(IN5～8) となります。
 
 IchigoJam BASIC RPi では常に 0 を返します。
-
