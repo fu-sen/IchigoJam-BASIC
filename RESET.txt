@@ -4,7 +4,7 @@ IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
 [ 機能 ]
-IchigoJam を再起動します。（ソフトウェアリセット）
+IchigoJam BASIC を再起動します。（ソフトウェアリセット）
 
 [ コマンド 書式 ]
 RESET
