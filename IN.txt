@@ -1,4 +1,4 @@
-IN
+﻿IN
 IchigoJam BASIC 0.6～
 IchigoJam BASIC RPi
 IchigoJam PC
@@ -34,6 +34,8 @@ BTN は IN9 扱いに変更され、<端子> を付ける場合は 9 となり�
 1.1 beta 6 以降では OUT 5,-1・OUT 6,-1 を指定する事で
 OUT5～OUT6 端子を IN10～IN11 に割り当てます。
 <端子> 省略時は 512・1024、<端子> を付ける場合は 10～11 となります。
+
+1.2 beta 43 より OUT 5,-2 などの指定でプルアップ入力に対応します。
 
 IchigoJam BASIC RPi は Raspberry Pi に本体ボタンがないため、
 BTN 端子の代わりに独立した IN9 端子の扱いになっています。
