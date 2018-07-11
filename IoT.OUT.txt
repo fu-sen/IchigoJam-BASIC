@@ -1,6 +1,6 @@
-IoT.OUT
+﻿IoT.OUT
 IchigoJam BASIC 1.2b57 IoT
-IchigoJam BASIC RPi 1.2b21RPi～・1.2.5RPi～
+IchigoJam BASIC RPi 1.2b21RPi・1.2.5RPi
 IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
@@ -19,9 +19,8 @@ sakura.io モジュールの
 送出時の ch は #01 固定、
 type は符号なし 64bit 整数（#4C）の扱いになります。
 
-1.2b57 IoT では IoT.OUT を実行すると
+1.2b57 IoT に限り IoT.OUT を実行すると
 仮想メモリ領域 #800 以降を
 データ送出コマンド生成に使用します。
 この領域は配列で使用されているため、
 配列の一部が破損しますのでご注意下さい。
-後にこの状態は変更される可能性があります。
