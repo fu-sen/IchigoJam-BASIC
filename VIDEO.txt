@@ -50,5 +50,11 @@ TICK()・WAIT の値も影響も受けます。
 
 1.2.0 で公開された IchigoJam BIG と同じ表示は VIDEO 3 で可能です。
 
+LPC1114 動作の IchigoJam BASIC では VIDEO 5～8 で
+左右に震える表示になる場合があります。
+PRINT で連続出力させている場合、
+表示に変化がない時は PRINT させないようにすると軽減できます。
+また、IchigoJam BASIC RPi では発生しません。
+
 IchigoJam BASIC RPi では 1.2b17RPi・1.2.5RPi より対応しています。
 <表示> のみで <クロックダウン> は対応していません。
