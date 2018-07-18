@@ -74,7 +74,7 @@ Windows および macOS で動作する Ichigojam ap は配布バージョン連
 
 ### ライセンス
 
-この文章は CC BY で公式に公開されている PDF 文章「BASICリファレンス」、<br />
+この文章は CC BY で公式に公開されている「IchigoJam BASIC リファレンス」、<br />
 および「IchigoJam BASIC RPi ドキュメント」、<br />
 Facebook グループ「IchigoJam-FAN」などの情報を元に<br />
 志賀 慶一 (ふうせん Fu-sen.) が独自に文章化しているものです。
