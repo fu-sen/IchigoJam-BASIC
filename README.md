@@ -95,7 +95,7 @@ IchigoJam BASIC RPi ドキュメント<br />
 https://ichigojam.github.io/RPi/index_ja.html
 
 Facebook グループ IchigoJam-FAN (Japanese)<br />
-https://www.facebook.com/groups/ichigojam/
+https://www.facebook.com/groups/ichigojam/<br />
 Facebook group IchigoJam-FAN@en (English)<br />
 https://www.facebook.com/groups/ichigojamfan/
 
