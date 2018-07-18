@@ -50,7 +50,7 @@ IchigoJam PC・IchigoJam ap・IchigoJam Web by WebAssembly は
         12415 = IchigoJam BASIC 1.2b15RPi
         12415 = IchigoJam BASIC 1.2.4RPi ★
  12516～12519 = IchigoJam BASIC 1.2b16RPi～1.2b19RPi、下2桁が beta 番号
- 12449～12459 = 1.2b49～59、下2桁が beta 番号。IoT 対応版共通
+ 12449～12460 = 1.2b49～60、下2桁が beta 番号。IoT 対応版共通
         12456 = 1.2.4D (DakeJacket 版)
  12520～12522 = IchigoJam BASIC 1.2b20RPi～1.2b22RPi、下2桁が beta 番号
         12522 = IchigoJam BASIC 1.2.5RPi ★
