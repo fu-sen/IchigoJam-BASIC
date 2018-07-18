@@ -1,7 +1,7 @@
 ## IchigoJam BASIC コマンド一覧
 IchigoJam BASIC command reference (Japanese)
 
-IchigoJam で使用できる BASIC 命令を一覧しています。
+IchigoJam BASIC で使用できる命令を一覧しています。
 
 Download ZIP でファイル一覧をダウンロードできます。<br />
 GitHub・Git を使っている場合は Clone を使っても良いでしょう。
