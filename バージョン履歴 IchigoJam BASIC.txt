@@ -1,7 +1,7 @@
 ﻿IchigoJam BASIC バージョン履歴
 
 2018/07/18 1.2b60 (1.2.4 リリース候補版)
-・AZERTY 配列を追加。
+・AZERTY 配列 (IchigoJam fr) を追加。
 ・IoT 対応ファームウェアを追加。（IoT.IN IoT.OUT 追加、保存 1 ファイルのみ）
 ・BPS -100 以下の指定に対応（例えば BPS -2304 で 230400bps に設定)
 ・BPS 第 2 パラメーターで I2C 通信速度の設定に対応（IchigoJam BASIC RPi が先行して導入済）
@@ -15,6 +15,14 @@
 ・SOUND ピンをマシン語で使用できるように変更
 ・その他バグ修正
 
+2018/04/13 IchigoJam BASIC 1.2b20RPi
+・1.2b56 および 1.2b57 IoT を反映
+　履歴は別途公開(バージョン 履歴 IchigoJam BASIC RPi.txt)
+
+
+2017/10/16(2017/10/11) IchigoJam BASIC 1.2.0RPi
+・1.2.3 をベースに Raspberry Pi で動作するように
+　履歴は別途公開(バージョン 履歴 IchigoJam BASIC RPi.txt)
 
 2017/08/?? 1.2.3
 ・バグ修正(IchigoJam U 自動起動・配列を使用した INPUT)
@@ -96,7 +104,7 @@
 ・その他バグ修正
 
 2016/01/09 - IchigoJam PC 0.1 beta 12（初期は IchigoJam for PC）
-・1.1 をベースに x86 CPU のパソコンで動作するようにした IchigoJam
+・1.1 をベースに x86 CPU のパソコンで動作するようにした IchigoJam BASIC
 　履歴は別途公開(バージョン 履歴 IchigoJam PC.txt)
 
 
