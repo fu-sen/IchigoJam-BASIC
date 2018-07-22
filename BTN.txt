@@ -27,3 +27,6 @@ BTN() および BTN(0) は本体ボタンが存在する IchigoJam BASIC のみ�
 BTN 端子は IN5 にも割り当てられています。
 1.1 beta 5 以降では BTN 端子が IN9 に割り当てられています。
 IN も参照して下さい。 
+
+SkyBerryJAM は BTN 以外に IN1・IN4 のボタンも備えています。
+IN コマンドで値を得る事が可能です。

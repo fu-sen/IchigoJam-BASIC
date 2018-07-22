@@ -24,4 +24,7 @@ OUT7 として LED が使えるようになり、
 例えば OUT 7,n で LED n と同じ動作ができるようになっています。
 OUT を参照して下さい。
 
+SkyBerry JAM では 5 つある LED のうち、一番左が LED で変化します。
+他の 4 つは OUT1～4 端子相当です。OUT コマンドで変化します。
+
 IchigoJam BASIC RPi では OUT 7 と LED は別に扱われています。
