@@ -39,6 +39,7 @@ OUT5～OUT6 端子を IN10～IN11 に割り当てます。
 
 SkyBerryJAM は IN1 および IN4 のボタンも備えています。
 これらのボタンを押す事で IN の値が変化します。
+BTN と異なり、離して 1、押して 0 になる事に注意を要します。
 
 IchigoJam BASIC RPi は Raspberry Pi に本体ボタンがないため、
 BTN 端子の代わりに独立した IN9 端子の扱いになっています。

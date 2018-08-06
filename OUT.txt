@@ -1,4 +1,4 @@
-OUT
+﻿OUT
 IchigoJam BASIC 0.6～
 IchigoJam BASIC RPi
 IchigoJam PC 非対応
@@ -40,5 +40,8 @@ IchigoJam RPi では IN(OUT10) もプルアップ入力に対応しています�
 OUT10（IN3）はオープンドレイン扱いで抵抗がありません。
 使用する場合はプルアップを行ってご利用下さい。
 
-SkyBerryJAM は OUT1～4 端子相当の LED も備えています。
-OUT コマンドにより、これらの LED が変化します。
+SkyBerryJAM は OUT1～4 端子相当のランプも備えています。
+OUT コマンドにより、これらのランプが変化します。
+LED は OUT 7 に該当するため、例えば OUT 1+2+4+8+64
+または OUT 1,1:OUT 2,1:OUT 3,1:OUT 4,1:OUT 7,1 として
+すべてのランプを点灯できます。
