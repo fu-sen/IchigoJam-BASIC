@@ -59,7 +59,7 @@ IchigoJam BASIC 1.2.0RPi～1.2.4RPi は IchigoJam BASIC 1.2.3 ベース、<br />
 IchigoJam BASIC 1.2.5RPi～1.2.6RPi は IchigoJam BASIC 1.2b56・1.2b57 IoT 相当である事にご注意下さい。
 
 IchigoJam PC は独自のバージョン表記になっているため、別途対応バージョンを上部に表記しています。<br />
-IchigoJam PC 0.1 beta 1～0.1 beta 12 は IchigoJam BASIC 1.1 がベースですので、
+IchigoJam PC 0.1 beta 1～0.1 beta 12 は IchigoJam BASIC 1.1 がベースですので、<br />
 基本的に 1.1 の仕様を継承します。
 
 IchigoJam BIG は通常の IchigoJam BASIC 1.2.0 ベースです。<br />
