@@ -11,7 +11,7 @@ RAW で参照した場合、またファイルをダウンロードした場合<
 （2016年5月14日より文字コードを変更しました）<br />
 Windows ではメモ帳を使用する事が可能です。
 
-* IchigoJam (公式) http://ichigojam.net/
+* IchigoJam (公式) https://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
 ### PDF 版
@@ -27,8 +27,8 @@ https://www.facebook.com/groups/ichigojam/626631837476573/
 古籏 一浩さんがこの一覧から MixJuice 対応にしたバージョンもあります。
 
 https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
-?"mj get www.openspc2.org/data/m/(コマンド名大文字).txt"<br />
-例 ?"mj get www.openspc2.org/data/m/ABS.txt"
+?"MJ GET www.openspc2.org/data/m/(コマンド名大文字).txt<br />
+例 ?"MJ GET www.openspc2.org/data/m/ABS.txt
 
 ### バージョン表記の注意
 
@@ -79,7 +79,7 @@ Windows および macOS で動作する Ichigojam ap は配布バージョン連
 Facebook グループ「IchigoJam-FAN」などの情報を元に<br />
 志賀 慶一 (ふうせん Fu-sen.) が独自に文章化しているものです。
 
-IchigoJam BASIC リファレンス: CC BY http://ichigojam.net/<br />
+IchigoJam BASIC リファレンス: CC BY https://ichigojam.net/<br />
 ver 1.2<br />
 https://ichigojam.net/IchigoJam-1.2.html<br />
 ver 1.1<br />
@@ -105,4 +105,4 @@ Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. F
 
 この 文章 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際</a> (CC BY 4.0) ライセンスで提供しています。
 
-<a href="http://ichigojam.net/" target="_blank">IchigoJam</a> は <a href="http://jig.jp/" target="_blank">株式会社jig.jp</a> の登録商標です。
+<a href="https://ichigojam.net/" target="_blank">IchigoJam</a> は <a href="https://jig.jp/" target="_blank">株式会社jig.jp</a> の登録商標です。
