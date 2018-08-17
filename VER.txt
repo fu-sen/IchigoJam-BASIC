@@ -44,22 +44,22 @@ IchigoJam PC・IchigoJam ap・IchigoJam Web by WebAssembly は
         12247 = 1.2.2 (正式版。1.2 beta 47 に同じ)
         12348 = 1.2 beta 48 
         12348 = 1.2.3 (正式版。1.2 beta 48 に同じ)
-        12011 = IchigoJam BASIC 1.2.0RPi（RPi 正式版）★
-        12314 = IchigoJam BASIC 1.2b14RPi
-        12314 = IchigoJam BASIC 1.2.3RPi（RPi 正式版。1.2b14RPi に同じ）
-        12415 = IchigoJam BASIC 1.2b15RPi
-        12415 = IchigoJam BASIC 1.2.4RPi（RPi 正式版。1.2b15RPi に同じ）★
- 12516～12519 = IchigoJam BASIC 1.2b16RPi～1.2b19RPi、下2桁が beta 番号
+        12011 = IchigoJam BASIC RPi 1.2.0RPi（正式版）★
+        12314 = IchigoJam BASIC RPi 1.2b14RPi
+        12314 = IchigoJam BASIC RPi 1.2.3RPi（正式版。1.2b14RPi に同じ）
+        12415 = IchigoJam BASIC RPi 1.2b15RPi
+        12415 = IchigoJam BASIC RPi 1.2.4RPi（正式版。1.2b15RPi に同じ）★
+ 12516～12519 = IchigoJam BASIC RPi 1.2b16RPi～1.2b19RPi、下2桁が beta 番号
  12449～12460 = 1.2b49～60、下2桁が beta 番号。IoT 対応版共通
         12456 = 1.2.4D  (DakeJacket 版)
         12457 = 1.2.4D2 (DakeJacket 版)
- 12520～12522 = IchigoJam BASIC 1.2b20RPi～1.2b22RPi、下2桁が beta 番号
-        12522 = IchigoJam BASIC 1.2.5RPi（RPi 正式版。1.2b22RPi に同じ）★
-        12623 = IchigoJam BASIC 1.2.6RPi（RPi 正式版）★
+ 12520～12522 = IchigoJam BASIC RPi 1.2b20RPi～1.2b22RPi、下2桁が beta 番号
+        12522 = IchigoJam BASIC RPi 1.2.5RPi（正式版。1.2b22RPi に同じ）★
+        12623 = IchigoJam BASIC RPi 1.2.6RPi（正式版）★
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。
    ただし 1.0.2 の正式公開は行われず、1.1.0 が正式公開となっています。
-★ IchigoJam BASIC RPi は 1.2.4 RPi まで 1.2.3 からの派生です。
-   1.2.3RPi 以外に 1.2.0RPi・1.2.4Ri も 1.2.3 からである事にご注意下さい。
+★ IchigoJam BASIC RPi は 1.2.4RPi まで 1.2.3 からの派生です。
+   1.2.3RPi 以外に 1.2.0RPi・1.2.4RPi も 1.2.3 からである事にご注意下さい。
    1.2.5RPi～1.2.6RPi は 1.2b56 および 11.2b57 IoT の仕様を含んでいます。
