@@ -1,4 +1,4 @@
-LANG
+﻿LANG
 IchigoJam BASIC 1.1.0～
 IchigoJam BASIC RPi
 IchigoJam PC
@@ -20,6 +20,7 @@ PRINT LANG()
     2 キリル文字・モンゴル語配列（IchigoJam mn）
     3 ベトナム語（IchigoJam vi）
     4 AZERTY 配列（IchigoJam fr）
+    6 中国語 ボポモフォ 注音記号（IchigoJam bp）
 
 IchigoJam BASIC RPi および IchigoJam PC は
 カナ文字・ローマ字入力のみが提供されているため、
