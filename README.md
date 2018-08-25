@@ -30,7 +30,7 @@ https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
 ?"MJ GET www.openspc2.org/data/m/(コマンド名大文字).txt<br />
 例 ?"MJ GET www.openspc2.org/data/m/ABS.txt
 
-## English version
+### English version
 
 This IchigoJam BASIC reference has been translated in English.<br />
 translated by Paul Wratt (@paulwratt).
