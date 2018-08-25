@@ -35,7 +35,7 @@ https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
 This IchigoJam BASIC reference has been translated in English.<br />
 translated by Paul Wratt (@paulwratt).
 
-https://github.com/paulwratt/ichigojam-basic-english
+https://github.com/paulwratt/IchigoJam-BASIC-english
 
 ### バージョン表記の注意
 
