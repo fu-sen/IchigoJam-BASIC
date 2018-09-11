@@ -20,7 +20,10 @@ Windows ではメモ帳を使用する事が可能です。
 Facebook グループ IchigoJam-FAN 内で公開しています。<br />
 紙面で一覧したい場合はこちらを印刷し、ご利用下さい。
 
-https://www.facebook.com/groups/ichigojam/626631837476573/
+ichigoJam BASIC 1.1.0 beta / PanCake 1.0<br />
+https://www.facebook.com/groups/ichigojam/permalink/626383150834775/<br />
+IchigoJam BASIC 1.0.2 / PanCake 1.0<br />
+https://www.facebook.com/groups/ichigojam/permalink/626631844143239/
 
 ### MixJuice 版
 
