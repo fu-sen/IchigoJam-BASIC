@@ -9,6 +9,16 @@
          http://www.iodata.jp/lib/product/u/5813_etc.htm
 一部あえて日付順に並べていないところがある
 
+[2018/08/28] IchigoJam BASIC 1.2.6RPi+ (1.2.3RPi～1.2.6RPi 変更内容を含む)
+(IchigoJam BASIC RPI+ 公式サイト公開の変更履歴)
+・Sense HATのセンサー（ジャイロ・磁気・気圧・湿度）追加対応
+・Touchscreen Display の接続に SDA・SCL をなくして簡素化
+(I-O DATA 公開の 1.2.2RPi+ → 1.2.6RPi+ 変更履歴)
+・Raspberry Pi 3 Model B+ で LED コマンドが動作しない不具合の修正
+・カーソルが点滅しない不具合の修正
+・TICK 値と画面リフレッシュ回数が同期していない不具合の修正
+・COPY・CLP・CLS・SCROLL・POKE による画面の変更次の PRINT まで反映されない不具合の修正
+
 (2018/06/08) IchigoJam BASIC 1.2.6RPi
 ・不具合修正（Raspberry Pi 3 Model B+ の LED 動作）
 
@@ -46,29 +56,29 @@
 ・I2C デフォルト通信速度を 400kHz に変更
 ・I2C 通信速度設定に対応（i2c_clock.txt）
 
-(2017/12/25) IchigoJam BASIC 1.2.4RPi
+(2017/12/25) IchigoJam BASIC RPi 1.2.4RPi
 ・1.2b15RPi の正式版化
 
-2017/12/07 IchigoJam BASIC 1.2b15RPi
+2017/12/07 IchigoJam BASIC RPi 1.2b15RPi
 ・カーソルの点滅対応
 ・画面線画の高速化
 
-(2017/12/09) IchigoJam BASIC 1.2.3RPi
+(2017/12/09) IchigoJam BASIC RPi 1.2.3RPi
 ・1.2b14RPi の正式版化
 
-2017/11/29 IchigoJam BASIC 1.2b14RPi
+2017/11/29 IchigoJam BASIC RPi 1.2b14RPi
 ・CLS・SCROLL・POKE・COPY・CLP の画面の変更が PRINT まで反映されない問題の改善
 
-[2017/12/17] IchigoJam BASIC+ 1.2.2RPi
+[2017/12/17] IchigoJam BASIC RPi+ 1.2.2RPi+
 ・一部キーボードでテンキー Home・End・PageUp・PageDown・Ins が効かない問題の改善
 ・一部キーボードで Shift・Ctrl・Alt が効かない問題の改善
 ・一部キーボードでオートリピートが効かない問題の改善
 ※ I-O DATA のサイト上では「オートリピート対応」とのみ記載
 ※ フリー版 IchigoJam BASIC 1.2.2RPi はサイト上で公開されていない
 
-[2017/11/22～2017/12/下旬] IchigoJam BASIC+ 1.2.0RPi
+[2017/11/22～2017/12/下旬] IchigoJam BASIC RPi+ 1.2.0RPi+
 ・IchigoJam BASIC+ 初版発売
 
-2017/10/16(2017/10/11) IchigoJam BASIC 1.2.0RPi
+2017/10/16(2017/10/11) IchigoJam BASIC RPi 1.2.0RPi
 ・初版正式公開
 
