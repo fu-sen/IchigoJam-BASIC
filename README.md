@@ -27,11 +27,18 @@ https://www.facebook.com/groups/ichigojam/permalink/626631844143239/
 
 ### MixJuice 版
 
-古籏 一浩さんがこの一覧から MixJuice 対応にしたバージョンもあります。
+MixJuice で参照できるバージョンです。<br>
+（2017 年に閉鎖していましたが、2018年10月より復活しました）
+
+https://github.com/fu-sen/IJHELP<br />
+?"MJ GETS fu-sen.github.io/IJHELP/(コマンド名大文字)<br />
+例 ?"MJ GETS fu-sen.github.io/IJHELP/VER
+
+また、古籏 一浩さん変換・公開による MixJuice バージョンもあります。
 
 https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
 ?"MJ GET www.openspc2.org/data/m/(コマンド名大文字).txt<br />
-例 ?"MJ GET www.openspc2.org/data/m/ABS.txt
+例 ?"MJ GET www.openspc2.org/data/m/CLS.txt
 
 ### English version
 
