@@ -28,7 +28,7 @@ https://www.facebook.com/groups/ichigojam/permalink/626631844143239/
 ### MixJuice 版
 
 MixJuice で参照できるバージョンです。<br>
-（2017 年に閉鎖していましたが、2018年10月より復活しました）
+（2018年2月25日に閉鎖していましたが、2018年10月12日より復活しました）
 
 https://github.com/fu-sen/IJHELP<br />
 ?"MJ GETS fu-sen.github.io/IJHELP/(コマンド名大文字)<br />
