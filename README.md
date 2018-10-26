@@ -20,25 +20,29 @@ Windows ではメモ帳を使用する事が可能です。
 Facebook グループ IchigoJam-FAN 内で公開しています。<br />
 紙面で一覧したい場合はこちらを印刷し、ご利用下さい。
 
-ichigoJam BASIC 1.1.0 beta / PanCake 1.0<br />
-https://www.facebook.com/groups/ichigojam/permalink/626383150834775/<br />
-IchigoJam BASIC 1.0.2 / PanCake 1.0<br />
-https://www.facebook.com/groups/ichigojam/permalink/626631844143239/
+* IchigoJam BASIC 1.1.0 beta / PanCake 1.0<br />https://www.facebook.com/groups/ichigojam/permalink/626383150834775/<br />
+* IchigoJam BASIC 1.0.2 / PanCake 1.0<br />https://www.facebook.com/groups/ichigojam/permalink/626631844143239/
 
 ### MixJuice 版
 
 MixJuice で参照できるバージョンです。<br>
 （2018年2月25日に閉鎖していましたが、2018年10月12日より復活しました）
 
-https://github.com/fu-sen/IJHELP<br />
-?"MJ GETS fu-sen.github.io/IJHELP/(コマンド名大文字)<br />
+https://github.com/fu-sen/IJHELP
+
+```
+?"MJ GETS fu-sen.github.io/IJHELP/(コマンド名大文字)
 例 ?"MJ GETS fu-sen.github.io/IJHELP/VER
+```
 
 また、古籏 一浩さん変換・公開による MixJuice バージョンもあります。
 
-https://www.facebook.com/groups/ichigojam/permalink/718904794915943/<br />
-?"MJ GET www.openspc2.org/data/m/(コマンド名大文字).txt<br />
+https://www.facebook.com/groups/ichigojam/permalink/718904794915943/
+
+```
+?"MJ GET www.openspc2.org/data/m/(コマンド名大文字).txt
 例 ?"MJ GET www.openspc2.org/data/m/CLS.txt
+```
 
 ### English version
 
@@ -94,25 +98,17 @@ Windows および macOS で動作する Ichigojam ap は配布バージョン連
 Facebook グループ「IchigoJam-FAN」などの情報を元に<br />
 志賀 慶一 (ふうせん Fu-sen.) が独自に文章化しているものです。
 
-IchigoJam BASIC リファレンス: CC BY https://ichigojam.net/<br />
-ver 1.2<br />
-https://ichigojam.net/IchigoJam-1.2.html<br />
-ver 1.1<br />
-https://ichigojam.net/IchigoJam-1.1.html<br />
-ver 1.0.1<br />
-https://ichigojam.net/IchigoJam-1.0.1.html<br />
-ver 0.9.9<br />
-https://ichigojam.net/IchigoJam-0.9.9.html<br />
-ver 0.9.7 (PDF)<br />
-https://ichigojam.net/IchigoJam-BASIC-reference.pdf
+*IchigoJam BASIC リファレンス: CC BY https://ichigojam.net/
+**ver 1.2<br />https://ichigojam.net/IchigoJam-1.2.html
+**ver 1.1<br />https://ichigojam.net/IchigoJam-1.1.html
+**ver 1.0.1<br />https://ichigojam.net/IchigoJam-1.0.1.html
+**ver 0.9.9<br />https://ichigojam.net/IchigoJam-0.9.9.html
+**ver 0.9.7 (PDF)<br />https://ichigojam.net/IchigoJam-BASIC-reference.pdf
 
-IchigoJam BASIC RPi ドキュメント<br />
-https://ichigojam.github.io/RPi/index_ja.html
+*IchigoJam BASIC RPi ドキュメント<br />https://ichigojam.github.io/RPi/index_ja.html
 
-Facebook グループ IchigoJam-FAN (Japanese)<br />
-https://www.facebook.com/groups/ichigojam/<br />
-Facebook group IchigoJam-FAN@en (English)<br />
-https://www.facebook.com/groups/ichigojamfan/
+*Facebook グループ IchigoJam-FAN (Japanese)<br />https://www.facebook.com/groups/ichigojam/
+*Facebook group IchigoJam-FAN@en (English)<br />https://www.facebook.com/groups/ichigojamfan/
 
 Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2018.
 
