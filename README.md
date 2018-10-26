@@ -98,12 +98,12 @@ Windows および macOS で動作する Ichigojam ap は配布バージョン連
 Facebook グループ「IchigoJam-FAN」などの情報を元に<br />
 志賀 慶一 (ふうせん Fu-sen.) が独自に文章化しているものです。
 
-* IchigoJam BASIC リファレンス: CC BY https://ichigojam.net/
-** ver 1.2<br />https://ichigojam.net/IchigoJam-1.2.html
-** ver 1.1<br />https://ichigojam.net/IchigoJam-1.1.html
-** ver 1.0.1<br />https://ichigojam.net/IchigoJam-1.0.1.html
-** ver 0.9.9<br />https://ichigojam.net/IchigoJam-0.9.9.html
-** ver 0.9.7 (PDF)<br />https://ichigojam.net/IchigoJam-BASIC-reference.pdf
+* IchigoJam BASIC リファレンス: CC BY https://ichigojam.net/<br />
+ver 1.2 https://ichigojam.net/IchigoJam-1.2.html<br />
+ver 1.1 https://ichigojam.net/IchigoJam-1.1.html<br />
+ver 1.0.1 https://ichigojam.net/IchigoJam-1.0.1.html<br />
+ver 0.9.9 https://ichigojam.net/IchigoJam-0.9.9.html<br />
+ver 0.9.7 (PDF) https://ichigojam.net/IchigoJam-BASIC-reference.pdf
 
 * IchigoJam BASIC RPi ドキュメント<br />https://ichigojam.github.io/RPi/index_ja.html
 
