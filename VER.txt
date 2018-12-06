@@ -58,6 +58,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
  12520～12522 = IchigoJam BASIC RPi 1.2b20RPi～1.2b22RPi、下2桁が beta 番号
         12522 = IchigoJam BASIC RPi 1.2.5RPi（正式版。1.2b22RPi に同じ）★
         12623 = IchigoJam BASIC RPi 1.2.6RPi（正式版）★
+        12624 = IchigoJam BASIC RPi 1.2.6RPi（正式 Pi 3 Model A+ 対応版）★
         13001 = 1.3b1、下2桁が beta 番号
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
