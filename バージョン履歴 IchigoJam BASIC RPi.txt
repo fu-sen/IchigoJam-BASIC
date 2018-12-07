@@ -10,7 +10,7 @@
 一部あえて日付順に並べていないところがある
 
 (2018/12/06) IchigoJam BASIC 1.2.6RPi (2018/06/08 より 1.2.6.fw-12e0bf8)
-・不具合修正（Raspberry Pi 3 Model A+ の LED 動作）
+・Raspberry Pi 3 Model A+ に対応
 
 [2018/08/28] IchigoJam BASIC 1.2.6RPi+ (1.2.3RPi～1.2.6RPi 変更内容を含む)
 (IchigoJam BASIC RPI+ 公式サイト公開の変更履歴)
