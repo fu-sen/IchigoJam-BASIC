@@ -1,7 +1,7 @@
 ﻿IchigoJam BASIC バージョン履歴
 
 2019/02/04 1.3.1
-・不具合修正（特定の式で Complex expression やフリーズが発生）
+・バグ修正（特定の式で Complex expression やフリーズが発生）
 
 2019/01/14 1.3.0（1.2b63 を継承）
 ・処理速度高速化・IchigoJam web も高速化
@@ -10,7 +10,7 @@
 ・LOCATE カーソル表示・非表示切替（カーソルスイッチ）を追加（ただし縦横座標は省略できない）
 ・RENUM で GOTO・GOSUB の行番号を変更するように（一部変更しない場合あり）
 ・Illegal argmunet を Syntax error に変更（容量制限の対処）
-・その他不具合修正（液晶表示時の音、シリアル、RENUM、INPUT＋挿入モード）
+・その他バグ修正（液晶表示時の音、シリアル、RENUM、INPUT＋挿入モード）
 
 
 2018/10/03 1.2b63
