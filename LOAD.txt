@@ -2,6 +2,7 @@
 IchigoJam BASIC 0.8.0～
 IchigoJam BASIC RPi
 IchigoJam PC 0.1 beta 5～
+IchigoCake
 -----------------------------------------------------------
 [ 機能 ]
 プログラムを読み込みます。
@@ -43,6 +44,8 @@ IchigoJam BASIC RPi は 1.2b15RPi・1.2.4RPi まで 0～3 および 100～227 �
 (micro)SD メモリーカードの files ディレクトリ内ファイルから読みます。
 1.2b16RPi・1.2.5RPi より 0～227 となりました。
 0～99 は SD メモリカード、100～227 は EEPROM から読みます。
+
+IchigoCake 対応版は 0～5 です。
 
 プログラム番号にプログラムがない場合（NEW で SAVE した場合）は
 エラーにならず、OK 表示になります。

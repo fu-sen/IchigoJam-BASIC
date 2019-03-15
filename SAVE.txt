@@ -1,7 +1,8 @@
-SAVE
+﻿SAVE
 IchigoJam BASIC 0.8.0～
 IchigoJam BASIC RPi
 IchigoJam PC 0.1 beta 5～
+IchigoCake
 -----------------------------------------------------------
 [ 機能 ]
 プログラムを保存します。
@@ -42,6 +43,8 @@ IchigoJam BASIC RPi は 1.2b15RPi・1.2.4RPi まで 0～3 および 100～227 �
 0～99 は SD メモリカード、100～227 は EEPROM へ保存します。
 
 IchigoJam PC は 0～3 の本体保存に対応していますが、電源を切ると削除されます。
+
+IchigoCake 対応版は 0～5 です。
 
 保存したプログラムを消去したい場合は
 NEW でプログラムがなくなっている状態で SAVE <プログラム番号> をする事で、

@@ -2,6 +2,7 @@
 IchigoJam BASIC 非対応
 IchigoJam BASIC RPi 1.2.0RPi～
 IchigoJam PC 非対応
+IchigoCake
 -----------------------------------------------------------
 [ 機能 ]
 キーボード配列を変更します。
@@ -14,7 +15,7 @@ KBD 1
 
 [ 解説 ]
 IchigoJam BASIC RPi 独自のコマンドです。
-LPC1114 による IchigoJam BASIC では
+IchigoCake を除く LPC1114 による IchigoJam BASIC では
 キーボード配列を変更したい場合、
 ファームウェアを更新して下さい。
 
@@ -23,12 +24,10 @@ LPC1114 による IchigoJam BASIC では
     0 英語(US)キーボード
     1 日本語(JIS)キーボード
 
+IchigoJam BASIC RPi では
 SD カードに入れるファイル keymap.txt で設定も可能です。
 また KBD コマンドで kapmap.txt は上書きされます。
 値は次のとおりです。
 
     us 英語(US)キーボード
     jp 日本語(JIS)キーボード
-
-このコマンドは IchigoJam BASIC RPi 専用で実装されています。
-IchigoJam 実機ではファームウェアでキーボード配列を変更します。
