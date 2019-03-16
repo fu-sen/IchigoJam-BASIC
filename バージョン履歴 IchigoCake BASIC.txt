@@ -1,0 +1,8 @@
+﻿IchigoCake 対応版 IchigoJam BASIC バージョン履歴
+
+2019/03/15 - 1.3b7
+オリジナル版 IchigoJam BASIC より、次の点が変更
+・プログラムサイズを 4k バイトに拡張（通常は 1k バイト）
+・保存範囲は本体は 0～5、EEPROM は 100～131
+・PanCake・IchigoCake 拡張コマンドを追加
+・KBD コマンド追加（英語・日本語キーボード切り替え）
