@@ -90,10 +90,10 @@ Windows および macOS で動作する Ichigojam ap は配布バージョン連
 これらは IchigoJam BASIC と共通のため、特に考慮していませんが、\
 パソコン動作による入出力非対応、本体ボタンなしなどの制限があります。
 
-IchigoCake 対応版は現在ベータ版が公開されている状況で、\
+IchigoCake BASIC は現在ベータ版が公開されている状況で、\
 細かい仕様で分からない部分が存在している状況です。\
 現在のところ、オリジナル版 IchigoJam BASIC と異なる動作をする場合に\
-ファイル頭部分に「IchigoCake」を付加し、説明文を入れてあります。\
+ファイル頭部分に「IchigoCake BASIC」を付加し、説明文を入れてあります。\
 PanCake の機能が拡張されています。PanCake コマンド一覧もご参照下さい。
 
 https://github.com/fu-sen/PanCake-COMMAND

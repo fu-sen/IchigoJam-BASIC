@@ -2,6 +2,7 @@
 IchigoJam BASIC 1.0.0～
 IchigoJam BASIC RPi
 IchigoJam PC 0.1 beta 5～
+IchigoCake BASIC
 -----------------------------------------------------------
 [ 機能 ]
 プログラム一覧を表示します。
@@ -86,3 +87,8 @@ IchigoJam BASIC RPi は 1.2b15RPi・1.2.4RPi まで 0～3 および 100～227 �
 0～99 は SD メモリカード、100～227 は EEPROM を参照します。
 省略した場合、1.2.4RPi および 1.2b19RPi までは FILES 0,3 に同じ、
 1.2b20RPi および 1.2.5RPi 以降は FILES 0,20 に同じです。
+
+IchigoCake BASIC は 0～5 および 100～131 です。
+プログラム容量が 4k バイトになっているため、
+他の IchigoJam BASIC との EEPROM 共用は問題があります。
+専用に用意する事が推奨されます。
