@@ -13,7 +13,7 @@ VER()
 ? VER()
 
 [ 解説 ]
-返し値のバージョン番号は次のとおりです。(2018年10月現在)
+返し値のバージョン番号は次のとおりです。
 IchigoJam PC・IchigoJam ap・
 IchigoJam Web by WebAssembly・DakeJacket 版は
 派生元の IchigoJam BASIC バージョン番号になります。
@@ -64,6 +64,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         13106 = 1.3b06
         13106 = 1.3.1 (正式版。1.3b06 に同じ）
         13207 = 1.3b07D（DakeJacket 版・ベータ版）
+        13207 = IchigoCake BASIC 1.3.2（正式版）
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。
