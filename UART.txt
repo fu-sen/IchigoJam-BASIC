@@ -44,6 +44,11 @@ IchigoJam PC では 0 です。
 シリアル信号に応じて制御する機器（PanCake など）・アプリでは、
 UART を実行し、IchigoJam からの送出を変更する必要があります。
 
+IchigoCake BASIC では IchigoJam BASIC＋PanCake 同様に
+BASIC→PanCake 間をシリアル通信で送出しますが、
+PC.～ コマンドは UART に関係なく送出されますので、
+PC.～ コマンドの動作に問題がある場合、UART 0 で回避する事ができます。
+
 1.1 beta13 より <受信モード> に対応しています。
 シリアルから IchigoJam が受け取った信号を処理します。次のとおりです。
 起動時のデフォルトは
