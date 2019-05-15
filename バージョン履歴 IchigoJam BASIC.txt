@@ -2,6 +2,7 @@
 
 2019/05/15 1.3b07（IchigoCake BASIC 1.3.2・DakeJacket 版 1.3.2b07D を除く）
 ・複雑な計算式のエラーを Segmentation Fault に変更
+・その他バグ修正（OUT の CLO によるクリア）
 
 2019/04/01 IchigoCake BASIC 1.3.2
 ・1.3 ベータ版（1.3.1 と 1.3b07 の間）をベースに IchigoCake 向けに
