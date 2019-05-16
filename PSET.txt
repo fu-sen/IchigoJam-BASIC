@@ -1,5 +1,7 @@
 ﻿PSET
-IchigoJam BASIC 1.3b08
+IchigoJam BASIC 1.3b08～
+IchigoJam BASIC RPi 非対応
+IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
 線を描きます。

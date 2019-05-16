@@ -1,6 +1,7 @@
 ﻿POKE
 IchigoJam BASIC 0.9.8～
 IchigoJam BASIC RPi
+IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
 仮想アドレス領域に値を入れます。

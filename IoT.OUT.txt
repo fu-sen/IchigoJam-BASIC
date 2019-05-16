@@ -1,5 +1,5 @@
 ﻿IoT.OUT
-IchigoJam BASIC 1.2b57 IoT
+IchigoJam BASIC 1.2b57 IoT・1.3b02～
 IchigoJam BASIC RPi 1.2b21RPi・1.2.5RPi
 IchigoJam PC 非対応
 -----------------------------------------------------------

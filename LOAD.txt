@@ -2,7 +2,6 @@
 IchigoJam BASIC 0.8.0～
 IchigoJam BASIC RPi
 IchigoJam PC 0.1 beta 5～
-IchigoCake BASIC
 -----------------------------------------------------------
 [ 機能 ]
 プログラムを読み込みます。

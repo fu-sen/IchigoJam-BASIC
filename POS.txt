@@ -1,5 +1,7 @@
 ﻿POS
-IchigoJam BASIC 1.3b08
+IchigoJam BASIC 1.3b08～
+IchigoJam BASIC RPi 非対応
+IchigoJam PC 非対応
 -----------------------------------------------------------
 [ 機能 ]
 カーソル位置・画面サイズを取得します。
