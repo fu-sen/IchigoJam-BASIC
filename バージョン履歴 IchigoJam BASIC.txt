@@ -1,5 +1,10 @@
 ﻿IchigoJam BASIC バージョン履歴
 
+2019/05/16 1.3b08
+※暫定機能追加版。変更・削除の可能性あり
+・COS・PSET・POS・SIN 追加
+・LOCALE 左上からの位置設定追加
+
 2019/05/15 1.3b07（IchigoCake BASIC 1.3.2・DakeJacket 版 1.3.2b07D を除く）
 ・複雑な計算式のエラーを Segmentation Fault に変更
 ・その他バグ修正（OUT の CLO によるクリア）
