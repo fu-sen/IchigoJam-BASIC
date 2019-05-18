@@ -1,5 +1,5 @@
-﻿WS.OUT
-IchigoJam BASIC 1.3b09～
+﻿WS.LED
+IchigoJam BASIC 1.3b10～
 IchigoJam BASIC RPi 非対応
 IchigoJam PC 非対応
 -----------------------------------------------------------
@@ -7,13 +7,17 @@ IchigoJam PC 非対応
 フルカラーテープ WS2812B の状態を変化します。
 
 [ コマンド 書式 ]
-WS.OUT <LED 個数>
+WS.LED <LED 個数>
 
 [ 例 ]
-WS.OUT 3
+WS.LED 3
 
 [ 解説 ]
 WS2812B の DIN は OUT1 へ接続します。
 
 配列 [0] 以降に LED の個数に合わせて
-0=消灯、1=点灯 で入れた後、WS.OUT を実行します。
+0=消灯、1=点灯 で入れた後、WS.LED を実行します。
+
+1.3b09 では WS.OUT になっていました。
+1.3b10 で WS.LED に変更されています。
+WS.LED は暫定機能で、仕様が変更・削除される可能性があります。
