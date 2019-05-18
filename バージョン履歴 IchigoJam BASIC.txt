@@ -6,14 +6,14 @@
 ・LOCALE 左上からの位置設定追加
 ・IoT.OUT 複数バイトの送信に対応
 ・LANG 削除（VER(値) で追加予定）
+・バグ修正（特定の動作で固まる）
 ※PSET 追加は 1.3b8 のみ。1.3b9 より DRAW へ変更
 ※VPEEK は 1.3b8～1.3b9 のみ削除。1.3b10 で復活
 ※WS.OUT 追加は 1.3b9 のみ。1.3b10 よる WS.LED へ変更
-※特定動作で固まるバグが 1.3b7 より継続中
 
 2019/05/15 1.3b07（IchigoCake BASIC 1.3.2・DakeJacket 版 1.3.2b07D を除く）
 ・複雑な計算式のエラーを Segmentation Fault に変更
-・その他バグ修正（OUT の CLO によるクリア）
+・バグ修正（OUT の CLO によるクリア）
 
 2019/04/01 IchigoCake BASIC 1.3.2
 ・1.3 ベータ版（1.3.1 と 1.3b07 の間）をベースに IchigoCake 向けに
