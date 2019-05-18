@@ -5,7 +5,7 @@
 ・COS・DRAW・POS・SIN・WS.LED 追加
 ・LOCALE 左上からの位置設定追加
 ・IoT.OUT 複数バイトの送信に対応
-・LANG 削除（VER(値) で追加予定）
+・LANG 削除→VER(3) に変更
 ・バグ修正（特定の動作で固まる）
 ※PSET 追加は 1.3b8 のみ。1.3b9 より DRAW へ変更
 ※VPEEK は 1.3b8～1.3b9 のみ削除。1.3b10 で復活

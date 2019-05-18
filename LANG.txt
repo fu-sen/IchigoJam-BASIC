@@ -1,5 +1,5 @@
 ﻿LANG
-IchigoJam BASIC 1.1.0～
+IchigoJam BASIC 1.1.0～1.3b07
 IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
@@ -25,3 +25,6 @@ PRINT LANG()
 IchigoJam BASIC RPi および IchigoJam PC は
 カナ文字・ローマ字入力のみが提供されているため、
 1 固定です。
+
+1.3b08 で LANG が削除されました。
+VER(3) で同じ値を表紙できます。
