@@ -1,4 +1,4 @@
-CLK
+﻿CLK
 IchigoJam BASIC 1.0.0～
 IchigoJam BASIC RPi
 IchigoJam PC
@@ -18,3 +18,7 @@ CLK
 キーバッファに入力が蓄えられる事から
 INKEY() や INPUT などの入力受付時に悪影響を及ぼす場合があります。
 CLK でクリアしておく事で、この問題を対処する事ができます。
+
+事実上次の動作となります。
+
+POKE #1003,0 (IchigoCake BASIC は POKE #1E03,0)
