@@ -1,4 +1,4 @@
-SWITCH
+﻿SWITCH
 IchigoJam BASIC 1.2.2～
 IchigoJam BASIC RPi 非対応
 IchigoJam PC 非対応
@@ -17,10 +17,21 @@ SWITCH 1
 <モード> の値は次のとおりです。デフォルトは 0 です。
 
     0 ビデオ出力
-    1 液晶出力
+    1 ST7567 液晶出力 128×64 ピクセル仕様（ST7565 も対応しているが未確認）
+       次を接続します。(液晶モジュールは Aitendo 発売 CH12864F-SPI での表記)
+       液晶モジュール - IchigoJam
+          　　　　SCL - IN1
+                   SI - VIDEO2
+                  VDD - VCC
+                  VSS - GND
+                 LEDA - VCC（接続しなくても動作可）
+                  /CS - GND
+                 /RST - IN4
+                   A0 - IN2
 
 <モード> を省略した場合はビデオ出力と液晶出力を切り替えます。
 ファンクションキー F10 で SWITCH が割り当てられています。
+ベータ版では一時 F12 割り当てでしたが、変更されています。
 
 DakeJacket 対応版（バージョンに D が付いている）
 および 1.2b56 IoT では SWITCH が削除されています。
