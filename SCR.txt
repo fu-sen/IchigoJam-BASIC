@@ -1,5 +1,5 @@
 ﻿SCR
-IchigoJam BASIC 0.7.2～
+IchigoJam BASIC 0.7.2～（VPEEK）
 IchigoJam BASIC RPi
 IchigoJam PC
 -----------------------------------------------------------
