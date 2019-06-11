@@ -1,4 +1,4 @@
-BTN
+﻿BTN
 IchigoJam BASIC 0.6～
 IchigoJam BASIC RPi
 IchigoJam PC
@@ -27,6 +27,17 @@ BTN() および BTN(0) は本体ボタンが存在する IchigoJam BASIC のみ�
 BTN 端子は IN5 にも割り当てられています。
 1.1 beta 5 以降では BTN 端子が IN9 に割り当てられています。
 IN も参照して下さい。 
+
+1.3.2b17 より <値> に -1 が追加されています。
+-1 を指定した場合、返し値は次の合計値となります。
+
+　　 1 ← 矢印左キー
+　　 2 → 矢印右キー
+     4 ↑ 矢印上キー
+     8 ↓ 矢印下キー
+    16 SPACE スペースキー
+
+これは仮想メモリ #1002（IchigoCake BASIC では #1E02）で得られる値に同じです。
 
 SkyBerryJAM は BTN 以外に IN1・IN4 のボタンも備えています。
 KumaJam は BTN 以外に IN1 のボタンも備えています。

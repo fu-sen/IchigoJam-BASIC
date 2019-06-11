@@ -69,7 +69,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         13207 = IchigoJam BASIC RPi 1.3b07RPi
         13207 = IchigoCake BASIC 1.3.2（正式版）
  13207～13210 = 1.3b07～1.3b10 ☆
- 13211～13216 = 1.3.2b11～1.3.2b16
+ 13211～13217 = 1.3.2b11～1.3.2b17
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。
