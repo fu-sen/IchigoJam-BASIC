@@ -1,4 +1,4 @@
-HEX$
+﻿HEX$
 IchigoJam BASIC 0.9.8～
 IchigoJam BASIC RPi
 IchigoJam PC
@@ -17,5 +17,5 @@ HEX$(-1,4) → FFFF が返ります
 <桁数> を省略した時は最小限の桁数で出力します。
 出力する桁数が少ない場合は頭を 0 で埋めます。
 
-IchigoJam は変数・配列を数字でしか扱う事ができないため、
+IchigoJam BASIC は変数・配列を数字でしか扱う事ができないため、
 HEX$ の使用は PRINT で使う事になります。

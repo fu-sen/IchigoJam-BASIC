@@ -1,4 +1,4 @@
-HELP
+﻿HELP
 IchigoJam BASIC 1.0.1～
 IchigoJam BASIC RPi
 IchigoJam PC
@@ -13,7 +13,7 @@ HELP
 HELP
 
 [ 解説 ]
-1.0.1～1.1beta5 は下記の内容が表示されます。
+1.0.1～1.1beta5（正式版 1.0.1 のみ）は下記の内容が表示されます。
 
 MEMORY MAP
 #000-#6FF CHAR PATTERN(ROM)
@@ -34,7 +34,7 @@ MEM MAP
 #C00 PROGRAM
 #1002 KEY
 
-1.1 beta16～ および 1.1.1 は下記の内容となります。
+1.1 beta16～（正式版 1.1.1）は下記の内容となります。
 
 MEM MAP
 #000 CHAR
@@ -43,7 +43,7 @@ MEM MAP
 #900 VRAM
 #C00 PROGRAM
 
-1.2 は下記の内容となります。
+1.2 以降は下記の内容となります。
 
 MEM MAP
 #000 CHAR
@@ -51,3 +51,13 @@ MEM MAP
 #800 VAR
 #900 VRAM
 #C00 LIST
+
+IchigoCake BASIC は下記の内容となります。
+
+MEM MAP
+#000 CHAR
+#700 PCG
+#800 VAR
+#900 VRAM
+#C00 VAR2
+#E00 LIST

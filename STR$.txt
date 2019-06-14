@@ -1,5 +1,5 @@
-STR$
-IchigoJam BASIC 1.2.0～
+﻿STR$
+IchigoJam BASIC 1.2.0～・1.2 beta 3～
 IchigoJam BASIC RPi
 IchigoJam PC 非対応
 -----------------------------------------------------------

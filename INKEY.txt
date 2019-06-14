@@ -1,4 +1,4 @@
-INKEY
+﻿INKEY
 IchigoJam BASIC
 IchigoJam BASIC RPi
 IchigoJam PC
@@ -34,6 +34,7 @@ IchigoJam では変数は数値となっているため、コードになって�
     29・RIGHT → (右)
     30・UP    ↑ (上)
     31・DOWN  ↓ (下)
+    32・SPACE スペース
 
 10 I=INKEY():IF I<>10 GOTO 10
 
