@@ -1,6 +1,6 @@
 ﻿IchigoJam BASIC バージョン履歴
 
-2019/06/16 1.3.2b20（1.3b08～1.3b10 を含む）
+2019/06/17 1.3.2b21（1.3b08～1.3b10 を含む）
 ・COS・DRAW・POS・POINT・SIN・WS.LED 追加
 ・BTN(-1) を追加（#1002・#1E02(IchigoCake BASIC) の値）
 ・LOCATE 左上からの位置設定追加
