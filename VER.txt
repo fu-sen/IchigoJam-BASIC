@@ -88,17 +88,17 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
 　　0・省略 = IchigoJam BASIC のバージョン
 　　　　　3 = 言語種別（1.3b7 までの LANG()）
 
-<値>=1 および 2 は次の値で予約されています。
+<値>=1 および 2 は次で予約されています。
 
-          1 = プラットファーム種別（RPi・Cake BASIC など）
-          2 = キーボード種別（JP・US）
+    1 = プラットファーム種別（RPi・Cake BASIC など）
+    2 = キーボード種別（JP・US）
 
 <値>=3 は 1.3b7 の　LANG() に相当します。
 返す値は次のとおりです。
 
-    1 カタカナ・ローマ字入力
-    2 キリル文字・モンゴル語配列（IchigoJam mn）
-    3 ベトナム語（IchigoJam vi）
-    4 AZERTY 配列（IchigoJam fr）
-    6 中国語 ボポモフォ 注音記号（IchigoJam bp）
+    1 = カタカナ・ローマ字入力
+    2 = キリル文字・モンゴル語配列（IchigoJam mn）
+    3 = ベトナム語（IchigoJam vi）
+    4 = AZERTY 配列（IchigoJam fr）
+    6 = 中国語 ボポモフォ 注音記号（IchigoJam bp）
 
