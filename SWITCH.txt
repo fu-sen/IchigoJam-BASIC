@@ -1,5 +1,4 @@
-﻿+
-SWITCH
+﻿SWITCH
 IchigoJam BASIC 1.2.2～
 IchigoJam BASIC RPi 非対応
 IchigoJam PC 非対応
@@ -20,7 +19,7 @@ SWITCH 1,63
 <モード> の値は次のとおりです。デフォルトは 0 です。
 
     0 ビデオ出力
-    1 ST7567 液晶出力 128×64 ピクセル仕様（ST7565 も対応しているが未確認）
+    1 ST7567・ST7565 液晶出力 128×64 ピクセル仕様
       次を接続します。モジュールによって端子の表記が異なります。
        液晶モジュール - IchigoJam
               SDA・SI - VIDEO2
