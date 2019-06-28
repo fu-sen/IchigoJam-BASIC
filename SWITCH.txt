@@ -22,15 +22,15 @@ SWITCH 1,63 (1.3.2b12～）
     1 ST7567・ST7565 液晶出力 128×64 ピクセル仕様
       次を接続します。モジュールによって端子の表記が異なります。
 
-                    液晶モジュール －－－ IchigoJam
-                      SDA・SDI・SI －－－ VIDEO2
-               SCK・SCL・SCLK・SDL －－－ IN1
-                  A0・D/C・D/I・RS －－－ IN2
-       RES・RESET・RST・/RST・RSTB －－－ IN4
-                          VCC・VDD －－－ VCC・3.3V・5V
-               BLED・LA・LED・LEDA －※－ VCC・3.3V・5V
-                          GND・VSS －－－ GND
-                      CS・/CS・CSB －－－ GND
+              液晶モジュール －－－ IchigoJam
+                SDA・SDI・SI －－－ VIDEO2
+         SCK・SCL・SCLK・SDL －－－ IN1
+            A0・D/C・D/I・RS －－－ IN2
+       RES・RESET・RST・RSTB －－－ IN4
+                    VCC・VDD －－－ VCC・3.3V・5V
+         BLED・LA・LED・LEDA －※－ VCC・3.3V・5V
+                    GND・VSS －－－ GND
+                     CS・CSB －－－ GND
 
       ※ 外しても動作します。外した場合はバックライトが消灯します。
 
