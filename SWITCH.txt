@@ -23,8 +23,8 @@ SWITCH 1,63 (1.3.2b12～）
       次を接続します。モジュールによって端子の表記が異なります。
 
                     液晶モジュール －－－ IchigoJam
-                 SDA・SDI・SDL・SI －－－ VIDEO2
-               SCK・SCL・SCLK・SDA －－－ IN1
+                      SDA・SDI・SI －－－ VIDEO2
+               SCK・SCL・SCLK・SDL －－－ IN1
                   A0・D/C・D/I・RS －－－ IN2
        RES・RESET・RST・/RST・RSTB －－－ IN4
                           VCC・VDD －－－ VCC・3.3V・5V
