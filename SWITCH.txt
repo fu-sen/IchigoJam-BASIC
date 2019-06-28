@@ -27,12 +27,13 @@ SWITCH 1,63 (1.3.2b12～）
          SCK・SCL・SCLK・SDL －－－ IN1
             A0・D/C・D/I・RS －－－ IN2
        RES・RESET・RST・RSTB －－－ IN4
-                    VCC・VDD －－－ VCC・3.3V・5V
-         BLED・LA・LED・LEDA －※－ VCC・3.3V・5V
+                    VCC・VDD －－－ VCC・3.3V・5V ☆
+         BLED・LA・LED・LEDA －★－ VCC・3.3V・5V ☆
                     GND・VSS －－－ GND
                      CS・CSB －－－ GND
 
-      ※ 外しても動作します。外した場合はバックライトが消灯します。
+      ★ 外しても動作します。外した場合はバックライトが消灯します。
+      ☆ 液晶モジュールによって 3.3V の場合・5V の場合があります。
 
 <モード> を省略した場合はビデオ出力と液晶出力を切り替えます。
 ファンクションキー F10 で SWITCH が割り当てられています。
