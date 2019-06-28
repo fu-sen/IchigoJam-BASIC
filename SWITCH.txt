@@ -27,8 +27,8 @@ SWITCH 1,63 (1.3.2b12～）
                     SCK・SCL・SCLK －－－ IN1
                   RS・D/C・D/I・A0 －－－ IN2
        RST・/RST・RSTB・RES・RESET －－－ IN4
-                          VCC・VDD －－－ VCC・3.3V・5V
-                   BLED・LEDA・LED －※－ VCC・3.3V・5V
+                          VCC・VDD －－－ VCC・3.3V
+                   BLED・LEDA・LED －※－ VCC・3.3V
                           GND・VSS －－－ GND
                       CS・/CS・CSB －－－ GND
 
