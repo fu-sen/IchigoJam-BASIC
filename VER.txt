@@ -89,7 +89,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
 　　0・省略 = IchigoJam BASIC のバージョン
           1 = プラットファーム種別（RPi・Cake BASIC など）
           2 = キーボード種別（JP・US）
-　　　　　3 = 言語種別（1.3b7 までの LANG()）
+          3 = 言語種別（1.3b7 までの LANG()）
 
 <値>=1 のプラットフォーム種別は次が定まっています。
 今後種別で追加されます。
