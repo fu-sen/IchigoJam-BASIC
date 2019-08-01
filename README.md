@@ -43,6 +43,19 @@ https://www.facebook.com/groups/ichigojam/permalink/718904794915943/
 例 ?"MJ GET www.openspc2.org/data/m/CLS.txt
 ```
 
+### English book
+
+Juergen Pintaske has converted this reference to an English book.\
+You can now learn more about IchigoJam BASIC in English.
+
+- IchigoJam - My Reference (Kindle Edition)\
+https://www.amazon.com/dp/B07VRSFPBW/
+- IchigoJam - BASIC: My Reference - Preliminary Version\
+https://www.amazon.com/dp/1079519238/
+
+These exist in Amazon in different countries.\
+Please search: *Juergen Pintask IchigoJam*
+
 ### English version
 
 This IchigoJam BASIC reference has been translated in English.\
