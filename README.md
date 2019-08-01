@@ -24,14 +24,16 @@ Facebook グループ IchigoJam-FAN 内で公開しています。\
 
 ### MixJuice 版
 
-MixJuice で参照できるバージョンです。\
-（2018年2月25日に閉鎖していましたが、2018年10月12日より復活しました）
+MixJuice（互換の MicJack）を接続している IchigoJam より\
+イチゴジャム レシピ MixJuice コンテンツ 内で\
+コマンド一覧を直接参照できます。
 
-https://github.com/fu-sen/IJHELP
-
+https://github.com/fu-sen/15j.run
 ```
-?"MJ GETS fu-sen.github.io/IJHELP/(コマンド名大文字)
-例 ?"MJ GETS fu-sen.github.io/IJHELP/VER
+?"MJ GET 15j.run/basic/command/
+
+?"MJ GET 15j.run/basic/command/(コマンド名)
+例 ?"MJ GET 15j.run/basic/command/VER
 ```
 
 また、古籏 一浩さん変換・公開による MixJuice バージョンもあります。
