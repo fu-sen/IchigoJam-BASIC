@@ -54,7 +54,7 @@ https://www.amazon.com/dp/B07VRSFPBW/
 https://www.amazon.com/dp/1079519238/
 
 These exist in Amazon in different countries.\
-Please search: *Juergen Pintask IchigoJam*
+Please search: *Juergen Pintaske IchigoJam*
 
 ### English version
 
