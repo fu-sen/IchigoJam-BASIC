@@ -27,4 +27,4 @@ IchigoJam BASIC RPi および IchigoJam PC は
 1 固定です。
 
 1.3b08 で LANG が削除されました。（正式版 1.2.3 まで）
-VER(3) で同じ値を表紙できます。
+VER(3) で同じ値を表示できます。
