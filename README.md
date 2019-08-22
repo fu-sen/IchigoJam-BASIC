@@ -137,4 +137,4 @@ Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. F
 
 この 文章 は <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際</a> (CC BY 4.0) ライセンスで提供しています。
 
-<a href="https://ichigojam.net/" target="_blank">IchigoJam</a> は <a href="https://jig.jp/" target="_blank">株式会社jig.jp</a> の登録商標です。
+[IchigoJam](https://ichigojam.net/) は [株式会社jig.jp](https://jig.jp/) の登録商標です。
