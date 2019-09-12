@@ -14,9 +14,9 @@ IoT.OUT <送信内容>,<長さ>[,<即時送信>] (1.4.0b10～)
 [ 例 ]
 IoT.OUT 1
 IoT.OUT #800,128 (1.3b10～)
-IoT,OUT "IchigoJam BASIC ",16 (1.3b10～)
-IoT,OUT "IchigoJam BASIC ",16,0 (1.4.0b10～)
-IoT,OUT 0,0,1 (1.4.0b10～)
+IoT.OUT "IchigoJam BASIC ",16 (1.3b10～)
+IoT.OUT "IchigoJam BASIC ",16,0 (1.4.0b10～)
+IoT.OUT 0,0,1 (1.4.0b10～)
 
 [ 解説 ]
 上記では IoT.OUT と表記していますが、すべて大文字 IOT.OUT でも動作します。
