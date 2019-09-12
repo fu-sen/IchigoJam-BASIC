@@ -38,7 +38,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         11015 = IchigoJam PC 0.1 beta 12
         11018 = 1.1.0 (ネット上では非公開)
         11019 = 1.1.1 (正式版)
- 12001～12025 = 1.2 bera 1～25、下2桁が beta 番号
+ 12001～12025 = 1.2 beta 1～25、下2桁が beta 番号
         12025 = 1.2.0 (正式版。1.2 beta 25 に同じ）
         12026 = 1.2.0 IchigoJam BIG
         12027 = 1.2 beta 27
