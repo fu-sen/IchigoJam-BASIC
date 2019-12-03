@@ -70,7 +70,8 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         13207 = IchigoCake BASIC 1.3.2（正式版）
  13207～13210 = 1.3b07～1.3b10 、下2桁が beta 番号 ☆
  13211～13224 = 1.3.2b11～1.3.2b24、下2桁が beta 番号
- 14001～14013 = 1.4.0b1～1.4.0b13、下2桁が beta 番号
+ 14001～14013 = 1.4b1～1.4b13、下2桁が beta 番号
+        14114 = 1.4b14、下2桁が beta 番号
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。
@@ -112,3 +113,9 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
     4 = AZERTY 配列（IchigoJam fr）
     6 = 中国語 ボポモフォ 注音記号（IchigoJam bp）
 
+1.4b14 より <値>=4 が追加されています。
+<値>=4 は 1 秒の TICK() 値を返します。
+これはファームウェアのビデオ規格も示します。次のどちらかです。
+
+    50 = PAL  規格
+    60 - NTSC 規格
