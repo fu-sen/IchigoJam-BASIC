@@ -11,7 +11,7 @@ RAW で参照した場合、またファイルをダウンロードした場合\
 Windows ではメモ帳を使用する事が可能です。
 
 * IchigoJam (公式) https://ichigojam.net/
-* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
+* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
 
 ### PDF 版
 
