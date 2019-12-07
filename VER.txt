@@ -94,10 +94,18 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
           2 = キーボード種別（JP・US）
           3 = 言語種別（1.3b7 までの LANG()）
 
-<値>=1 のプラットフォーム種別は次が定まっています。
-今後種別で追加されます。
+<値>=1 のプラットフォーム種別は次を確認できています。
+jig.jp・B Inc.・福野さんが直接公開しているプラットフォームは値が種別そのものです。
+ナチュラルスタイルが公開しているプラットフォームでは
+プラットフォーム独自のバージョン番号が付加される予定です。
+これにより IchigoJam BASIC の 1.2 系は 1.2.0～1.2.3 で公開されていたのに、
+IchigoJam BASIC RPi は 1.2.0RPi～1.2.6RPi と
+異なるバージョンで進行してしまうのを防いでいます。
 
-    0 = IchigoJam BASIC
+    0 = 未対応
+    1 = IchigoJam BASIC (LPC1114 動作の IchigoJam または IchigoJam 互換機)
+    3 = IchigoJam web by WebAssembly
+    4 = IchigoJam ap
 
 <値>=2 のキーボード種別は KBD の値と同じで返す値はとおりです。
 ファームウェア以外に API を用いてキーボード種別を変更した場合も
