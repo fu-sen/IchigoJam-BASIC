@@ -65,3 +65,8 @@ PRINT で連続出力させている場合、
 
 IchigoJam BASIC RPi では 1.2b17RPi（正式版 1.2.5RPi）より対応しています。
 <表示> のみで <クロックダウン> は対応していません。
+
+IchigoJam web では VIDEO 0 を行った時の変化はありません。
+
+IchigoJam ap では VIDEO 0 を非表示にする代わりに
+実行前の状態から画面が変化しないようになります。
