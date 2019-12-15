@@ -10,7 +10,7 @@
 一部あえて日付順に並べていないところがある
 
 (2019/05/29) IchigoJam BASIC RPi 1.3b7RPi
-・IchigoJam BASIC 1.3.2～1.3b7 間のベータ版をベースに IchigoJam BASIC RPi へ反映
+・IchigoJam BASIC 1.3.1～1.3b7 間のベータ版をベースに IchigoJam BASIC RPi へ反映
 ※ 1.3b7 の変更内容は反映されていない（DakeJacket 版 1.3b7・IchigoCake BASIC 1.3.2 に同じ）
 
 
