@@ -98,21 +98,13 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
 <値>=1 のプラットフォーム種別は次を確認できています。
 
     0 = 未対応（該当のプラットフォームでまだ定義されていない）
-
-　・jig.jp・B Inc.・福野 泰介さん関連
-　　直接公開されているプラットフォームでは値が種別そのものです。
-
     1 = IchigoJam BASIC (LPC1114 動作の IchigoJam または IchigoJam 互換機)
+    1 = IchigoJam BASIC 1.4.1D ※
     3 = IchigoJam web by WebAssembly
     4 = IchigoJam ap
 
-　・ナチュラルスタイル関連
-　　プラットフォーム独自のバージョン番号が付加される予定です。
-　　これにより IchigoJam BASIC の 1.2 系は 1.2.0～1.2.3 で公開されていたのに、
-　　IchigoJam BASIC RPi は 1.2.0RPi～1.2.6RPi と
-　　異なるバージョンで進行してしまうのを防いでいます。
-
-    1 = IchigoJam BASIC 1.4.1D（VER(1) の仕様を反映していないため、オリジナルに同じ）
+IchigoJam BASIC IchigoDake 版は後に異なる値を割り当てる予定です。
+また IchigoJam BASIC RPi および IchigoCake BASIC も個別に割り当てられます。
 
 <値>=2 のキーボード種別は KBD の値と同じで返す値はとおりです。
 ファームウェア以外に API を用いてキーボード種別を変更した場合も
