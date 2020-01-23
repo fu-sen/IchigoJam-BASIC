@@ -1,5 +1,12 @@
 ﻿IchigoJam BASIC バージョン履歴
 
+2020/01/23 1.4b15
+・1.4.1D の対応を反映（IchigoDyhook 対応）
+・PLAY O3F・O4F を調整
+
+2020/01/21 1.4.1D (IchigoDake 版)
+・IchigoDyhook のモニター使用時に画面が乱れることがある現象に対応
+
 2019/12/06 1.4.1
 ・BTN(88)、BTN(-1) に 32 の値（X キー割り当て）を追加
 ・IOT.OUT 即時送信フラグ（値 3）追加
@@ -46,7 +53,7 @@
 ※VPEEK は 1.3b8～1.3b9 のみ削除。1.3b10 で復活
 ※WS.OUT 追加は 1.3b9～1.3b10 のみ。1.3b11 より WS.LED へ変更
 
-2019/05/15 1.3b07（IchigoCake BASIC・DakeJacket 版・IchigoJam BASIC RPi 1.3.2・1.3b07 を除く）
+2019/05/15 1.3b07（IchigoCake BASIC・IchigoDake 版・IchigoJam BASIC RPi 1.3.2・1.3b07 を除く）
 ・複雑な計算式のエラーを Segmentation Fault に変更
 ・バグ修正（OUT の CLO によるクリア）
 
