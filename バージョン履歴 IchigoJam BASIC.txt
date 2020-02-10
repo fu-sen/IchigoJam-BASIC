@@ -1,8 +1,9 @@
 ﻿IchigoJam BASIC バージョン履歴
 
-2020/01/23 1.4b15
-・1.4.1D の対応を反映（IchigoDyhook 対応）
+2020/02/10 1.4b16
 ・PLAY O3F・O4F を調整
+・1.4.1D の対応を反映（IchigoDyhook 対応）
+・その他 バグ修正
 
 2020/01/21 1.4.1D (IchigoDake 版)
 ・IchigoDyhook のモニター使用時に画面が乱れることがある現象に対応
