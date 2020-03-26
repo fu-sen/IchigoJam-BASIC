@@ -132,7 +132,7 @@ ver 0.9.7 (PDF) https://ichigojam.net/IchigoJam-BASIC-reference.pdf
 * Facebook グループ IchigoJam-FAN (Japanese)<br />https://www.facebook.com/groups/ichigojam/
 * Facebook group IchigoJam-FAN@en (English)<br />https://www.facebook.com/groups/ichigojamfan/
 
-Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2019.
+Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2020.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
 
