@@ -95,6 +95,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
           1 = プラットファーム種別（RPi・Cake BASIC など）
           2 = キーボード種別（JP・US）
           3 = 言語種別（1.3b7 までの LANG()）
+          4 = 1 秒の TICK() 値・ビデオ規格（1.4b14～）
 
 <値>=1 のプラットフォーム種別は次を確認できています。
 
