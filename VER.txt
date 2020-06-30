@@ -75,6 +75,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         14114 = 1.4b14
         14114 = 1.4.1（正式版。1.4b14 に同じ）
         14115 = 1.4b15、下2桁が beta 番号
+        14102 = IchigoCake BASIC 1.4b2
         14216 = 1.4b16、下2桁が beta 番号
         14216 = 1.4.2（正式版。1.4b16 に同じ）
  14217～14221 = 1.4b17～1.4b21、下2桁が beta 番号
@@ -106,14 +107,14 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
     1 = IchigoJam BASIC 1.4.1D ※
     3 = IchigoJam web by WebAssembly
     4 = IchigoJam ap
+    6 = IchigoCake BASIC
 
 ※ IchigoJam BASIC 1.4.1D は VER(1) を個別に割り当てなかったため 1 になっています。
 　 IchigoDake 版は後に異なる値を割り当てる予定です。（1.4.1 と 1.4.1D は区別不可能）
-　 また IchigoJam BASIC RPi および IchigoCake BASIC も個別に割り当てられます。
 
 <値>=2 のキーボード種別は KBD の値と同じで返す値はとおりです。
-ファームウェア以外に API を用いてキーボード種別を変更した場合も
-この値は変更されます。
+ファームウェア以外に API を用いてキーボード種別を変更した場合、
+KBD コマンドを使用した場合もこの値は変更されます。
 
     0 = 英語(US)キーボード
     1 = 日本語(JIS)キーボード

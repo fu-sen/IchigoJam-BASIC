@@ -1,5 +1,8 @@
 ﻿IchigoCake BASIC バージョン履歴
 
+2020/06/30 IchigoCake BASIC 1.4b2
+・IchigoJam BASIC 1.4 系ベースへ変更
+
 2019/04/01 IchigoCake BASIC 1.3.2
 オリジナル版 IchigoJam BASIC 1.3.1－1.3b07 の開発版より、次の点が変更
 ・プログラムサイズを 4k バイトに拡張（IchigoJam BASIC は 1k バイト）
