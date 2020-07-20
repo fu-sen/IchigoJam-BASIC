@@ -74,7 +74,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         14013 = 1.4.0（ネット上では非公開）
         14114 = 1.4b14
         14114 = 1.4.1（正式版。1.4b14 に同じ）
- 14102～14103 = IchigoCake BASIC 1.4b2～1.4b3
+ 14102～14104 = IchigoCake BASIC 1.4b2～1.4b4
         14115 = 1.4b15、下2桁が beta 番号
         14216 = 1.4b16、下2桁が beta 番号
         14216 = 1.4.2（正式版。1.4b16 に同じ）

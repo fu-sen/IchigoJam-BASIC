@@ -1,6 +1,6 @@
 ﻿IchigoCake BASIC バージョン履歴
 
-2020/07/06 IchigoCake BASIC 1.4b3
+2020/07/20 IchigoCake BASIC 1.4b4
 IchigoJam BASIC 1.4 系ベースへ変更
 ・WS.LED LED 34 個以降の点灯に対応
 ・その他 不具合修正
