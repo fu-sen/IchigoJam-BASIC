@@ -1,8 +1,10 @@
 ﻿IchigoCake BASIC バージョン履歴
 
-2020/07/20 IchigoCake BASIC 1.4b4
-IchigoJam BASIC 1.4 系ベースへ変更
+2020/09/16 IchigoCake BASIC 1.4b5
+IchigoJam BASIC 1.4.3 リリース候補版ベースへ変更
 ・WS.LED LED 34 個以降の点灯に対応
+・液晶モジュール ILI9341 対応
+・IOT.OUT <送信内容>,<長さ> で送信チャンネル 0 使用に対応
 ・その他 不具合修正
 
 2019/04/01 IchigoCake BASIC 1.3.2
