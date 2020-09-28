@@ -139,3 +139,6 @@ Maked by 志賀 慶一 (ふうせん🎈 Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.
 この 文章 は <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際</a> (CC BY 4.0) ライセンスで提供しています。
 
 [IchigoJam](https://ichigojam.net/) は [株式会社jig.jp](https://jig.jp/) の登録商標です。
+
+[SkyBerryJAM](http://www.tochigi-edu.ed.jp/tochigikogyo/nc2/index.php?page_id=212) は [栃木県立栃木工業高等学校](http://www.tochigi-edu.ed.jp/tochigikogyo/nc2/) が管理する登録商標であり、\
+[SkyBerryJAM](http://www.tochigi-edu.ed.jp/tochigikogyo/nc2/index.php?page_id=212) は [栃木県立栃木工業高等学校](http://www.tochigi-edu.ed.jp/tochigikogyo/nc2/) の商標です。
