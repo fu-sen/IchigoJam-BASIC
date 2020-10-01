@@ -74,7 +74,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         14013 = 1.4.0（ネット上では非公開）
         14114 = 1.4b14
         14114 = 1.4.1（正式版。1.4b14 に同じ）
- 14102～14104 = IchigoCake BASIC 1.4b2～1.4b4
+ 14102～14104 = IchigoCake BASIC 1.4b2～1.4b4 ◆
         14115 = 1.4b15、下2桁が beta 番号
         14216 = 1.4b16、下2桁が beta 番号
         14216 = 1.4.2（正式版。1.4b16 に同じ）
@@ -82,6 +82,8 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         14322 = 1.4b22、下2桁が beta 番号
         14323 = 1.4.3（正式版）
         14323 = SkyBerryJam/IJB 1.4.3（SkyBerryJAM 1,000ライセンス記念ファームウェア）
+        14105 = IchigoCake BASIC 1.4b5 ◆
+        14105 = IchigoCake BASIC 1.4.0（正式版）◆
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。
@@ -93,6 +95,9 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
 　 後に公開されているため、
 　 DakeJacket 版・IchigoCake BASIC では反映されていません。
 　 IchigoJam BASIC RPi 1.3b07RPi も同じバージョンから反映されていると思われます。
+◆ IchigoCake BASIC 固有の更新を考慮し、下 2 桁は独自に割り当ててあります。
+   IchigoCake BASIC 1.4b5 および 1.4.0 は IchigoJam BASIC 1.4.3 リリース候補版ベースですが、
+   当初の開発では 1.4.1 ベースだったため、141xx になっています。
 
 1.3b8 より VER(<値>) が追加されています。
 <値> は次のとおりです。
