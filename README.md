@@ -13,6 +13,12 @@ Windows ではメモ帳を使用する事が可能です。
 * IchigoJam (公式) https://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
 
+### IchigoJam R について
+
+2020年12月27日に RISC-V チップへ変更された IchigoJam R が発表されました。\
+これに伴う仕様変更が発生している事を確認しています。\
+2021年1月中旬以降に反映予定です。
+
 ### PDF 版
 
 西澤 眞人さんが PDF 化した IchigoJam+PanCakeコマンドリファレンス を\
