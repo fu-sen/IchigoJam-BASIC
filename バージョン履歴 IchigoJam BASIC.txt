@@ -1,7 +1,14 @@
 ﻿IchigoJam BASIC バージョン履歴
 
 2021/01/23 1.5b1 (RISC-V のみ)
-・RISC-V プロセッサに対応 (IchigoJam R 向け)
+・RISC-V プロセッサの対応追加 (IchigoJam R 向け)
+以下、IchigoJam R 仕様で IchigoJam 従来基板からの変更点
+・ANA 0～11 (IN1～4・OUT1～6・BTN) 対応
+・FILES・LOAD・RUN・SAVE 本体のプログラム番号 0～14 に
+・KBD キーボード配列切替対応
+・PWM 1～6（OUT1～6）対応
+・SWITCH 液晶非対応
+・VER VER(1)=7 割り当て（LPC1114 と判別するため異なる番号に）
 
 
 2020/09/28 1.4.3
@@ -314,6 +321,7 @@
 2015/01/04 - 0.9.0
 ・PLAY・TEMPO・BEEP・SCR・OUT 5/6(旧 EX3/4) 追加
 ・VPEEK 引数なしでカーソル位置取出
+
 
 2014/12/08 - 0.8.9
 ・LIST 行番号 で行番号まで表示
