@@ -102,7 +102,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
 1.3b8 より VER(<値>) が追加されています。
 <値> は次のとおりです。
 
-　　0・省略 = IchigoJam BASIC のバージョン
+    0・省略 = IchigoJam BASIC のバージョン
           1 = プラットファーム種別（RPi・Cake BASIC など）
           2 = キーボード種別（JP・US）
           3 = 言語種別（1.3b7 までの LANG()）
