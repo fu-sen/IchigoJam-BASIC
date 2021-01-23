@@ -62,7 +62,8 @@ FILES 110 で FILES 0,110 と同じになります。
 1.1 beta（正式版 1.1.0）からの範囲指定では、下記のとおりで理想的な表示を行います。
 （512K 以下は A2=GND 接続を前提とした場合）
 
-    本体のみ    = FILES     または FILES 0,3
+    本体のみ    = FILES     または FILES 0,3  (LPC1114・web など)
+                  FILES     または FILES 0,14 (RISC-V)
      32K ビット = FILES 103 または FILES 0,103
      64K ビット = FILES 107 または 0,107
     128K ビット = FILES 115 または 0,115
