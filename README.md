@@ -13,12 +13,6 @@ Windows ではメモ帳を使用する事が可能です。
 * IchigoJam (公式) https://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
 
-### IchigoJam R について
-
-2020年12月27日に RISC-V チップへ変更された IchigoJam R が発表されました。\
-これに伴う仕様変更が発生している事を確認しています。\
-2021年1月中旬以降に反映予定です。
-
 ### PDF 版
 
 西澤 眞人さんが PDF 化した IchigoJam+PanCakeコマンドリファレンス を\
@@ -32,7 +26,8 @@ Facebook グループ IchigoJam-FAN 内で公開しています。\
 
 MixJuice（互換の MicJack）を接続している IchigoJam より\
 イチゴジャム レシピ MixJuice コンテンツ 内で\
-コマンド一覧を直接参照できます。
+コマンド一覧を直接参照できます。\
+IchigoJam web では `GET` の代わりに `GETS` を使用して下さい。
 
 https://github.com/fu-sen/15j.run
 ```
@@ -42,7 +37,8 @@ https://github.com/fu-sen/15j.run
 例 ?"MJ GET 15j.run/basic/command/VER
 ```
 
-また、古籏 一浩さん変換・公開による MixJuice バージョンもあります。
+また、古籏 一浩さん変換・公開による MixJuice バージョンもあります。\
+`GETS` 非対応のため、IchigoJam web では参照できません。
 
 https://www.facebook.com/groups/ichigojam/permalink/718904794915943/
 
@@ -75,7 +71,8 @@ https://github.com/paulwratt/IchigoJam-BASIC-english
 
 対応バージョンは上部コマンド名の下に記載しています。\
 特にバージョン表記のない「IchigoJam BASIC」などは全バージョン対応です。\
-「IchigoJam BASIC RPi 非対応」など「非対応」とある場合は対応していません。
+「IchigoJam BASIC RPi 非対応」など「非対応」とある場合は対応していません。\
+「IchigoJam BASIC (RISC-V)」とある場合は RISC-V 対応・LPC1114 非対応です。
 
 0.9.8 および 0.9.9 は正式リリースがなく、RC 版しか存在しません。\
 0.9.8 または 0.9.9 と記載している場合は、それらの RC 版全般を指します。\
@@ -89,6 +86,9 @@ https://github.com/paulwratt/IchigoJam-BASIC-english
 1.0.2 beta12 は 1.0.1 から継承しなおしているため、動作の違いにご注意下さい。\
 （1.0.2 beta12 は beta11 までの内容を一部含んでいない機能があります）\
 ただし、実際には 1.0.2 は正式リリースされず、1.1.1 が正式リリースされています。
+
+1.5β より LPC1114 以外に RISC-V を採用した IchigoJam が出ています。\
+特に表記がない場合は LPC1114・RISC-V 共通の動作です。
 
 IchigoJam BASIC RPi はバージョンとハードウェア仕様の違いによる動作有無があり、\
 別途対応バージョンを上部に表記しています。\
@@ -125,6 +125,7 @@ Facebook グループ「IchigoJam-FAN」などの情報を元に\
 
 * IchigoJam BASIC リファレンス: CC BY https://ichigojam.net/ \
 オンライン https://fukuno.jig.jp/app/csv/ichigojam-cmd.html \
+ver 1.5 https://ichigojam.net/IchigoJam-1.4.html \
 ver 1.4 https://ichigojam.net/IchigoJam-1.4.html \
 ver 1.3 https://ichigojam.net/IchigoJam-1.3.html \
 ver 1.2 https://ichigojam.net/IchigoJam-1.2.html \
@@ -138,7 +139,7 @@ ver 0.9.7 (PDF) https://ichigojam.net/IchigoJam-BASIC-reference.pdf
 * Facebook グループ IchigoJam-FAN (Japanese)<br />https://www.facebook.com/groups/ichigojam/
 * Facebook group IchigoJam-FAN@en (English)<br />https://www.facebook.com/groups/ichigojamfan/
 
-Maked by 志賀 慶一 (ふうせん🎈 FU-SEN) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2020.
+Maked by 志賀 慶一 (ふうせん🎈 FU-SEN) | Keiichi SHIGA (🎈 BALLOON | FU-SEN), 2015-2021.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
 
