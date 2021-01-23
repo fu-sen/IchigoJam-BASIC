@@ -1,5 +1,5 @@
 ﻿KBD
-IchigoJam BASIC 非対応・IchigoCake BASIC
+IchigoJam BASIC (RISC-V)・IchigoCake BASIC
 IchigoJam BASIC RPi 1.2.0RPi～
 IchigoJam PC 非対応
 -----------------------------------------------------------
@@ -14,8 +14,8 @@ KBD 1
 
 [ 解説 ]
 IchigoCake BASIC を除く LPC1114 による IchigoJam BASIC では
-キーボード配列を変更したい場合、
-ファームウェアを更新して下さい。
+キーボード配列を変更したい場合、ファームウェアの更新を要します。
+1.4 よりプログラムによるキーボード配列変更も可能になっています。
 
 <配列> は次のとおりです。
 
