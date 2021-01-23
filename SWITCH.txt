@@ -1,5 +1,5 @@
 ﻿SWITCH
-IchigoJam BASIC 1.2.2～
+IchigoJam BASIC 1.2.2～ (LPC1114)
 IchigoJam BASIC RPi 非対応
 IchigoJam PC 非対応
 -----------------------------------------------------------
@@ -52,3 +52,6 @@ IchigoJam BASIC RPi では何も動作しません。
 ファームウェアで異なるファイルで配布されています。
 そのため、SWITCH で切り替える事はできません。
 ILI9341 動作版は SWITCH は OK を表示しますが、変化はありません。
+
+LPC1114 の IchigoJam BASIC のみ対応です。
+RISC-V の IchigoJam BASIC 1.5 beta はまだ対応していません。
