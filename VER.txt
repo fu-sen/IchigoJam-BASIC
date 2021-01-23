@@ -116,6 +116,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
     3 = IchigoJam web by WebAssembly
     4 = IchigoJam ap
     6 = IchigoCake BASIC
+    7 = IchigoJam BASIC (RISC-V 動作の IchigoJam)
 
 ※ IchigoJam BASIC 1.4.1D は VER(1) を個別に割り当てなかったため 1 になっています。
 　 IchigoDake 版は後に異なる値を割り当てる予定です。（1.4.1 と 1.4.1D は区別不可能）
