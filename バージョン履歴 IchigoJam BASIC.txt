@@ -5,8 +5,9 @@
 以下、IchigoJam R 仕様で IchigoJam 従来基板からの変更点
 ・ANA 0～4・6～11 (IN1～4・OUT2～6・BTN) 対応
 ・FILES・LOAD・RUN・SAVE 本体のプログラム番号 0～14 に
+・IN OUT 変更非対応
 ・KBD キーボード配列切替対応
-・OUT IN3 を含めてすべてプルアップ対応
+・OUT IN3 を含めてすべてプルアップ対応・IN 変更非対応
 ・PWM 1～6（OUT1～6）対応
 ・SWITCH 液晶非対応
 ・VER VER(1)=7 割り当て（LPC1114 と判別するため異なる番号に）
