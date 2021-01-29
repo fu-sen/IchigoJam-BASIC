@@ -100,7 +100,9 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
    IchigoCake BASIC 1.4b5 および 1.4.0 は IchigoJam BASIC 1.4.3 リリース候補版ベースですが、
    当初の開発では 1.4.1 ベースだったため、141xx になっています。
 
-1.3b8 より VER(<値>) が追加されています。
+1.3b8（正式版 1.4.0）より VER(<値>) が追加されています。
+1.3.2 以前は VER(<値>) は Syntax Error になるため、
+まず VER() で対象バージョンの確認が必要になる場合があります。
 <値> は次のとおりです。
 
     0・省略 = IchigoJam BASIC のバージョン
@@ -112,7 +114,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
 <値>=1 のプラットフォーム種別は次を確認できています。
 
     0 = 未対応（該当のプラットフォームでまだ定義されていない）
-    1 = IchigoJam BASIC (LPC1114 動作の IchigoJam または IchigoJam 互換機)
+    1 = IchigoJam BASIC (LPC1114 動作の IchigoJam・IchigoJam 互換機)
     1 = IchigoJam BASIC 1.4.1D ※
     3 = IchigoJam web
     4 = IchigoJam ap
