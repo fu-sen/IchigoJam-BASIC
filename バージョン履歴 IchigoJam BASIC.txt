@@ -1,6 +1,6 @@
 ﻿IchigoJam BASIC バージョン履歴
 
-2021/02/02 1.5b3 (RISC-V のみ)
+2021/02/04 1.5b5 (RISC-V のみ)
 ・RISC-V プロセッサの対応追加 (IchigoJam R β)
 ・ANA 0～4・6～11 (IN1～4・OUT2～6・BTN) 対応 ※ ANA(5) は非対応
 ・FILES・LOAD・RUN・SAVE 本体のプログラム番号 0～14 に
