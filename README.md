@@ -140,7 +140,7 @@ https://www.facebook.com/groups/ichigojam/
 * Facebook group IchigoJam-FAN@en (English)\
 https://www.facebook.com/groups/ichigojamfan/
 
-Maked by [志賀 慶一](https://www.facebook.com/keiichishiga) ([ふうせん🎈 FU-SEN](https://balloon.im/)) | [Keiichi SHIGA](https://www.facebook.com/keiichishiga) ([🎈 BALLOON | FU-SEN](https://balloon.cm/)), 2015-2021.
+Maked by [志賀 慶一](https://www.facebook.com/keiichishiga) ([ふうせん🎈 FU-SEN](https://balloon.asia/)) | [Keiichi SHIGA](https://www.facebook.com/keiichishiga) ([🎈 BALLOON | FU-SEN](https://balloon.cm/)), 2015-2021.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
 
