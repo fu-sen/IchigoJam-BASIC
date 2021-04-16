@@ -17,6 +17,7 @@ SAVE 1
 
       0 のみ IchigoJam BASIC 1.2b59 IoT 
       0～  2 IchigoJam BASIC ～0.9.9 本体(LPC1114)
+             IchigoJam BASIC 1.4b27 (3 のみ SAVE 不可)
       0～  3 IchigoJam BASIC 1.0.0～ 本体(LPC1114)・
              IchigoJam web・IchigoJam ap・IchigoJam PC
              IchigoJam BASIC RPi SD カード ～1.2b15RPi・～1.2.4RPi など

@@ -79,7 +79,7 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         14216 = 1.4b16、下2桁が beta 番号
         14216 = 1.4.2（正式版。1.4b16 に同じ）
  14217～14221 = 1.4b17～1.4b21、下2桁が beta 番号
-        14322 = 1.4b22、下2桁が beta 番号
+ 14322～14327 = 1.4b22～1.4b27、下2桁が beta 番号
         14323 = 1.4.3（正式版）
         14323 = SkyBerryJam/IJB 1.4.3（SkyBerryJAM 1,000ライセンス記念ファームウェア）
         14105 = IchigoCake BASIC 1.4b5 ◆
