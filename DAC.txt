@@ -1,4 +1,4 @@
-DEC$
+DAC
 IchigoJam BASIC 1.5b08～ (RISC-V)
 IchigoJam BASIC RPi 非対応
 IchigoJam PC 非対応
