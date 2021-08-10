@@ -1,7 +1,7 @@
 ﻿IchigoJam BASIC バージョン履歴
 
 
-2021/06/16 1.5b9 (RISC-V のみ)
+2021/08/10 1.5b10 (RISC-V のみ)
 ・RISC-V プロセッサの対応追加 (IchigoJam R β)
 ・DAC 追加
 ・ANA 0～4・5～11 (IN1～4・OUT1～6・BTN) 対応
