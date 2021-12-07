@@ -1,5 +1,8 @@
 ﻿IchigoCake BASIC バージョン履歴
 
+2021/12/07 IchigoCake BASIC 1.4.1
+・不具合修正
+
 2020/09/28 IchigoCake BASIC 1.4.0
 IchigoJam BASIC 1.4.3 リリース候補版ベースへ変更
 （?VER() 上位 3 桁は 141（当初は 1.4.1 ベースだったため）、下 2 桁は独自に番号を更新）
