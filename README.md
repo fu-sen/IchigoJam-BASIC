@@ -125,7 +125,7 @@ Facebook グループ「IchigoJam-FAN」などの情報を元に\
 
 * IchigoJam BASIC リファレンス: CC BY https://ichigojam.net/ \
 オンライン https://fukuno.jig.jp/app/csv/ichigojam-cmd.html \
-ver 1.5b https://ichigojam.github.io/doc/IchigoJam-1.5.html \
+ver 1.5 https://ichigojam.net/IchigoJam-1.5.html \
 ver 1.4 https://ichigojam.net/IchigoJam-1.4.html \
 ver 1.3 https://ichigojam.net/IchigoJam-1.3.html \
 ver 1.2 https://ichigojam.net/IchigoJam-1.2.html \
