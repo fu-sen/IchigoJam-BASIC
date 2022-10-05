@@ -24,20 +24,7 @@ Facebook グループ IchigoJam-FAN 内で公開しています。\
 
 ### MixJuice 版
 
-MixJuice（互換の MicJack）を接続している IchigoJam より\
-イチゴジャム レシピ MixJuice コンテンツ 内で\
-コマンド一覧を直接参照できます。\
-IchigoJam web では `GET` の代わりに `GETS` を使用して下さい。
-
-https://github.com/fu-sen/15j.run
-```
-?"MJ GET 15j.run/basic/command/
-
-?"MJ GET 15j.run/basic/command/(コマンド名)
-例 ?"MJ GET 15j.run/basic/command/VER
-```
-
-また、古籏 一浩さん変換・公開による MixJuice バージョンもあります。\
+古籏 一浩さん変換・公開による MixJuice バージョンもあります。\
 `GETS` 非対応のため、IchigoJam web では参照できません。
 
 https://www.facebook.com/groups/ichigojam/permalink/718904794915943/
@@ -140,7 +127,7 @@ https://www.facebook.com/groups/ichigojam/
 * Facebook group IchigoJam-FAN@en (English)\
 https://www.facebook.com/groups/ichigojamfan/
 
-Maked by [志賀 慶一](https://www.facebook.com/keiichishiga) ([ふうせん🎈 FU-SEN](https://balloon.asia/)) | [Keiichi SHIGA](https://www.facebook.com/keiichishiga) ([🎈 BALLOON | FU-SEN](https://balloon.cm/)), 2015-2021.
+Maked by [志賀 慶一](https://www.facebook.com/keiichishiga) ([ふうせん🎈 FU-SEN](https://balloon.asia/)) | [Keiichi SHIGA](https://www.facebook.com/keiichishiga) ([🎈 BALLOON | FU-SEN](https://balloon.gdn/)), 2015-2021.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
 
