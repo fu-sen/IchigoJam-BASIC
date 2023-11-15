@@ -108,7 +108,7 @@ https://github.com/fu-sen/PanCake-COMMAND
 この文章は CC BY で公式に公開されている「IchigoJam BASIC リファレンス」、\
 および「IchigoJam BASIC RPi ドキュメント」、\
 Facebook グループ「IchigoJam-FAN」などの情報を元に\
-志賀 慶一 (ふうせん🎈 FU-SEN) が独自に文章化しているものです。
+ふうせん🎈 FU-SEN が独自に文章化しているものです。
 
 * IchigoJam BASIC リファレンス: CC BY https://ichigojam.net/ \
 オンライン https://fukuno.jig.jp/app/csv/ichigojam-cmd.html \
@@ -127,7 +127,7 @@ https://www.facebook.com/groups/ichigojam/
 * Facebook group IchigoJam-FAN@en (English)\
 https://www.facebook.com/groups/ichigojamfan/
 
-Maked by [志賀 慶一](https://www.facebook.com/keiichishiga) ([ふうせん🎈 FU-SEN](https://balloon.asia/)) | [Keiichi SHIGA](https://www.facebook.com/keiichishiga) ([🎈 BALLOON | FU-SEN](https://balloon.gdn/)), 2015-2021.
+Maked by [ふうせん🎈 FU-SEN](https://balloon-jp.vercel.app/) | ([🎈 BALLOON | FU-SEN](https://balloon-en.vercel.app/)), 2015-2023.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
 
