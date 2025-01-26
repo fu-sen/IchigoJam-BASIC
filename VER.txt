@@ -86,6 +86,8 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
         14105 = IchigoCake BASIC 1.4.0（正式版）◆
  15001～15010 = 1.5b1～1.5b10、下2桁が beta 番号（RISC-V）
         15011 = 1.5.0（正式版 RISC-V）
+        16000 = 1.6.0 (クラウドファンディング返礼品版)
+        16100 = 1.6.1（正式版 RP2040）
 
 ※ 1.0.2 beta 12 は 1.0.1 からの後継で、
    1.0.1 beta 11 から 1.1.0 beta 1、後の 1.1 beta に引き継がれています。
@@ -114,18 +116,25 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
 
 <値>=1 のプラットフォーム種別は次を確認できています。
 
-    0 = 未対応（該当のプラットフォームでまだ定義されていない）
-    1 = IchigoJam BASIC (LPC1114 動作の IchigoJam・IchigoJam 互換機)
-    1 = IchigoJam BASIC 1.4.1D ※
-    3 = IchigoJam web
-    4 = IchigoJam ap
-    6 = IchigoCake BASIC
-    7 = IchigoJam BASIC (RISC-V 動作の IchigoJam)
-    7 = IchigoJam BASIC 1.5.0D ※
+     0 = 未対応（該当のプラットフォームでまだ定義されていない）
+     1 = IchigoJam BASIC (LPC1114 動作の IchigoJam・IchigoJam 互換機)
+     1 = IchigoJam BASIC 1.4.1D ※
+     2 = IchigoJam BASIC RPi
+     3 = IchigoJam web
+     4 = IchigoJam ap
+     5 = IchigoDake BASIC
+     6 = IchigoCake BASIC
+     7 = IchigoJam BASIC (RISC-V 動作の IchigoJam)
+     7 = IchigoJam BASIC 1.5.0D ※
+     8 = IchigoJam BASIC (Spresense 動作の IchigoJam)
+     8 = IchigoJam BASIC (RP2040 動作の IchigoJam) ★
+     9 = IchigoJam BASIC (RP2040 動作の IchigoJam) ★
+    10 = IchigoJam BASIC (コンソール版)
 
 ※ IchigoJam BASIC 1.4.1D は VER(1) を個別に割り当てなかったため 1 になっています。
 　 IchigoDake 版は後に異なる値を割り当てる予定です。（1.4.1 と 1.4.1D は区別不可能）
    IchigoJam BASIC 1.5.0D も同様に VER(1) が割り当てられておらず 7 になっています。
+★ 制作者未確認
 
 <値>=2 のキーボード種別は KBD の値と同じで返す値は次のとおりです。
 ファームウェア以外に API を用いてキーボード種別を変更した場合、
@@ -140,6 +149,7 @@ KBD コマンドを使用した場合もこの値は変更されます。
     2 = キリル文字・モンゴル語配列（IchigoJam mn）
     3 = ベトナム語（IchigoJam vi）
     4 = AZERTY 配列（IchigoJam fr）
+    5 = 中国語 (IchigoJam zh)
     6 = 中国語 ボポモフォ 注音記号（IchigoJam bp）
 
 1.4b14（正式版 1.4.1）より <値>=4 が追加されています。
