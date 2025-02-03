@@ -126,16 +126,16 @@ IchigoJam Web by WebAssembly・DakeJacket 版は
      6 = IchigoCake BASIC
      7 = IchigoJam BASIC (RISC-V 動作の IchigoJam)
      7 = IchigoJam BASIC 1.5.0D ※
-     8 = IchigoJam BASIC (Spresense 動作の IchigoJam)
-     8 = IchigoJam BASIC 1.6.0 ※
-     9 = IchigoJam BASIC (RP2040 動作の IchigoJam) ★
+     8 = IchigoJam BASIC (RP2040 動作の IchigoJam) ★
+     8 = IchigoJam BASIC (Spresense 動作の IchigoJam) ★
     10 = IchigoJam BASIC (コンソール版)
 
 ※ IchigoJam BASIC 1.4.1D は VER(1) を個別に割り当てなかったため 1 になっています。
 　 IchigoDake 版は後に異なる値を割り当てる予定です。（1.4.1 と 1.4.1D は区別不可能）
    IchigoJam BASIC 1.5.0D も同様に VER(1) が割り当てられておらず 7 になっています。
    IchigoJam BASIC 1.6.0 は当時 VER(1) で未割り当てだった 8 を返しています。
-★ 制作者未確認
+★ 2025年2月現在 現状 8 を返すものが２つ存在しています。
+   どちらかが 9 または 11 以降に割り当てられる可能性があります。
 
 <値>=2 のキーボード種別は KBD の値と同じで返す値は次のとおりです。
 ファームウェア以外に API を用いてキーボード種別を変更した場合、
@@ -143,7 +143,9 @@ KBD コマンドを使用した場合もこの値は変更されます。
 
       0 = 英語(US)キーボード
       1 = 日本語(JIS)キーボード
-    255 = IchigoJam 1.6.0
+    255 = IchigoJam 1.6.0 ☆
+
+☆ 不具合により 255 を返します。1.6.1 で改善されています。
 
 <値>=3 は 1.3b7 までの LANG() に相当します。返す値は次のとおりです。
 
